@@ -21,7 +21,7 @@ Honours & Awards
 
 Publications
 ======
-Chen, G., Jiao, J. J., Wang, Z., & Jin, Y., Machine Learning-Accelerated Discovery of Optimal Multi-Objective Fractured Geothermal System Design. Nexus (Major Revision) (Cell Press)
+Chen, G., Jiao, J. J., Wang, Z., & Jin, Y., Machine Learning-Accelerated Discovery of Optimal Multi-Objective Fractured Geothermal System Design. Nexus (Major Revision) (Cell Press) [Code](https://github.com/JellyChen7/ALEMO)
 
 Chen, G., Wang, Z., Liu, Q., & Jin, Y., Attention-Enhanced Evolving Net for MultiObjective Expensive
 Optimization. IEEE Transactions on Evolutionary Computation (Under Review) (IF: 11.7)
