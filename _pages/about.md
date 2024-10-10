@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/12f12d3d-6bef-44fa-a20e-68a40564654e)---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
@@ -8,42 +8,33 @@ redirect_from:
 ---
 
 I am a Ph.D student in The University of Hong Kong (Department of Earth Sciences), where I worked on AI for Geothermal Energy with Prof. [Jiu Jimmy Jiao](https://scholar.google.com/citations?user=t7zybZUAAAAJ&hl=zh-TW&oi=ao) in [Hydrogeology Research Group](https://hydrogeology.hku.hk/). I obtained my Bachelor and Marster degree in China University of Petroelum (East China), majoring in petroleum engineering, where I worked on AI for Geothermal Energy with Prof. [Kai Zhang](https://scholar.google.com/citations?user=BGN7ht0AAAAJ&hl=zh-TW) in [Oil and Gas Intelligent Development Technology Research Group](http://ai.pe.upc.edu.cn/_t1540/main.psp). Toward accelerating scientific simulation, design and discovery with machine learning (AI + Science), my research interests encompass:
+Geothermal & oil reservoir modelling, data assimilation, well-placement & control optimization, fracture inversion, AI for scientific simulation and design
+Expensive optimization, multi-objective optimization, transfer optimization, machine learning, learn to optimize, reinforcement learning
 
-A data-driven personal website
+Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Chen, G., Jiao, J. J., Wang, Z., & Dai, Q., Multi-fidelity machine learning with knowledge transfer enhances geothermal energy system design and optimization. Renewable Energy (Under Review) (IF: 9.0)
+Chen, G., Jiao, J. J., Xue, X., & Wang, Z., Rank-Based Learning and Local Model Based Evolutionary Algorithm for High-Dimensional Expensive Multi-Objective Problems. IEEE Transactions on Systems, Man, and Cybernetics: Systems, arXiv preprint arXiv:2304.09444 (Under Review after Revision) (IF: 8.6)
+Chen, G., Jiao, J. J., Jiang, C., & Luo, X. (2024). Surrogate-assisted level-based learning evolutionary search for geothermal heat extraction optimization. Renewable and Sustainable Energy Reviews, 189, 113860. (IF: 16.3)
+Chen, G., Luo, X., Jiao, J. J., & Jiang, C. (2023). Fracture network characterization with deep generative model based stochastic inversion. Energy, 273, 127302. (IF: 9.0)
+Chen, G., Luo, X., Jiao, J. J., & Xue, X. (2022). Data-driven evolutionary algorithm for oil reservoir well-placement and control optimization. Fuel, 326, 125125. (IF: 6.7)
+Chen, G., Zhang, K., Xue, X., Zhang, L., Yao, C., Wang, J., & Yao, J. (2022). A radial basis function surrogate model assisted evolutionary algorithm for high-dimensional expensive optimization problems. Applied Soft Computing, 116, 108353. (IF: 7.2)
+Chen, G., Li, Y., Zhang, K., Xue, X., Wang, J., Luo, Q., ... & Yao, J. (2021). Efficient hierarchical surrogate-assisted differential evolution for high-dimensional expensive optimization. Information Sciences, 542, 228-246. (IF: 8.1)
+Chen, G., Zhang, K., Zhang, L., Xue, X., Ji, D., Yao, C., ... & Yang, Y. (2020). Global and local surrogate-model-assisted differential evolution for waterflooding production optimization. SPE Journal, 25(01), 105-118.  (IF: 3.2)
+Chen, G., Zhang, K., Xue, X., Zhang, L., Yao, J., Sun, H., ... & Yang, Y. (2020). Surrogate-assisted evolutionary algorithm with dimensionality reduction method for water flooding production optimization. Journal of Petroleum Science and Engineering, 185, 106633. (IF: 5.2)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Conference papers/Invited talk
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Invited talk at Lawrence Berkeley National Laboratory (LBNL)’s DDPS seminar, “Subsurface Energy System Characterization and Design Optimization” (2024)
+Chen, G., & Jiao, J. J., (2024) AGU24, Machine Learning-Enabled Discovery of Optimal Fractured Geothermal Systems Design
+Chen, G., & Jiao, J. J., (2024) AGU24, Accelerated Generative Inversion of Fracture Networks via Diffusion Models
+Chen, G., & Jiao, J. J., (2023) AGU23, Deep learning enhanced evolutionary multiobjective optimization for accelerated fractured geothermal systems design. Poster
+Chen, G., Jiao, J. J., & Luo, X. (2023), (No. EGU23-1819). EGU23, Classifier-assisted level-based learning evolutionary search for heat extraction optimization of enhanced geothermal systems. Poster
+Chen, G., Jiao, J. J., & Luo, X. 7th Asia Pacific Coastal Aquifer Management Meeting (APCAMM) 2023, Data driven evolutionary optimization for heat extraction optimization of enhanced geothermal system. Oral
+Chen, G., Jiao, J. J., & Luo, X. (2022), (No. 060301). The 49th IAH Congress, Data-driven evolutionary algorithm for oil and geothermal reservoir well-placement and control optimization. Oral
+Chen, G., Jiao, J. J., & Luo, X. (2022), (No. 100200). The 49th IAH (International Association of Hydrogeologists) Congress, Deep generative model based stochastic inversion for fracture network characterization. Oral
 
-Site-wide configuration
+Reviewer Service
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Applied Energy; IEEE Transactions on Artificial Intelligence; Swarm and Evolutionary Computation; Information Sciences; Journal of Hydrology; Fuel; Structural and Multidisciplinary Optimization; Evolutionary Intelligence; SN Applied Sciences; Mathematical Biosciences and Engineering
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
