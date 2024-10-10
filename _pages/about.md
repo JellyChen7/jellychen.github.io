@@ -1,3 +1,12 @@
+---
+permalink: /
+title: " "
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I am a Ph.D student in The University of Hong Kong (Department of Earth Sciences), where I worked on AI for Geothermal Energy with Prof. [Jiu Jimmy Jiao](https://scholar.google.com/citations?user=t7zybZUAAAAJ&hl=zh-TW&oi=ao) in [Hydrogeology Research Group](https://hydrogeology.hku.hk/). I obtained my Bachelor and Marster degree in China University of Petroelum (East China), majoring in petroleum engineering, where I worked on AI for Smart Oil Field with Prof. [Kai Zhang](https://scholar.google.com/citations?user=BGN7ht0AAAAJ&hl=zh-TW) in [Oil and Gas Intelligent Development Technology Research Group](http://ai.pe.upc.edu.cn/_t1540/main.psp). Toward accelerating scientific simulation, design and discovery with machine learning (AI + Science), my research interests encompass:
 Geothermal & oil reservoir modelling, data assimilation, well-placement & control optimization, fracture inversion, AI for scientific simulation and design
 Expensive optimization, multi-objective optimization, transfer optimization, machine learning, learn to optimize, reinforcement learning, denoising diffusion model
