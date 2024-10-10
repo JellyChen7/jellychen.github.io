@@ -11,6 +11,14 @@ I am a Ph.D student in The University of Hong Kong (Department of Earth Sciences
 Geothermal & oil reservoir modelling, data assimilation, well-placement & control optimization, fracture inversion, AI for scientific simulation and design
 Expensive optimization, multi-objective optimization, transfer optimization, machine learning, learn to optimize, reinforcement learning, denoising diffusion model
 
+Honours & Awards
+======
+ Scholarship：“National Scholarship” (1%); “National Endeavor Scholarship” (twice) (3%); “First-class scholarship for top talents in international classes” (3%); “Bank of China Scholarship” (5%); “Science and Technology Innovation Scholarship” (5%); “Innovative Entrepreneurship Practice Excellence Star Scholarship” (5%); “Outstanding Contribution Scholarship” (3%); “Academic First-class Scholarship” (twice) (3%); “Excellent Student Scholarship” (30%)
+ 
+ Title of Honour：” HKU Foundation Excellent PhD Award” (5%); “Excellent students” (15%); “Campus cultural and artistic activists” (15%); “Science and technology activists (15%)”; “Outstanding Master's Thesis of Shandong Province Graduate Students (1%)”
+ 
+ Competition: The Second Prize of The 15th China Post-graduate Mathematical Contest in Modeling (10%); The Second Prize of the American College Students Mathematical Modeling Contest (30%); The Second Prize of the SPE Petro-Gathering Digital Oilfield Design Contest (10%); The Second Prize of the Shandong University Student Science and Technology Innovation Competition (5%); The Second Prize of the Tenth Oil Drilling and Mining Model Design Competition (10%); Second Prize in Shandong Province “Challenge Cup” Competition (5%); Shandong Province “Internet +” Competition Silver Award (5%)
+
 Publications
 ======
 Chen, G., Jiao, J. J., Wang, Z., & Jin, Y., Machine Learning-Accelerated Discovery of Optimal Multi-Objective Fractured Geothermal System Design. Nexus (Major Revision) (Cell Press)
