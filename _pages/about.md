@@ -39,12 +39,19 @@ Chen, G., Zhang, K., Xue, X., Zhang, L., Yao, J., Sun, H., ... & Yang, Y. (2020)
 Conference papers/Invited talk
 ======
 Invited talk at Lawrence Berkeley National Laboratory (LBNL)’s DDPS seminar, “Subsurface Energy System Characterization and Design Optimization” (2024)
-Chen, G., & Jiao, J. J., (2024) AGU24, Machine Learning-Enabled Discovery of Optimal Fractured Geothermal Systems Design
-Chen, G., & Jiao, J. J., (2024) AGU24, Accelerated Generative Inversion of Fracture Networks via Diffusion Models
+
+Chen, G., & Jiao, J. J., (2024) AGU24, Machine Learning-Enabled Discovery of Optimal Fractured Geothermal Systems Design. Oral
+
+Chen, G., & Jiao, J. J., (2024) AGU24, Accelerated Generative Inversion of Fracture Networks via Diffusion Models. Poster
+
 Chen, G., & Jiao, J. J., (2023) AGU23, Deep learning enhanced evolutionary multiobjective optimization for accelerated fractured geothermal systems design. Poster
+
 Chen, G., Jiao, J. J., & Luo, X. (2023), (No. EGU23-1819). EGU23, Classifier-assisted level-based learning evolutionary search for heat extraction optimization of enhanced geothermal systems. Poster
+
 Chen, G., Jiao, J. J., & Luo, X. 7th Asia Pacific Coastal Aquifer Management Meeting (APCAMM) 2023, Data driven evolutionary optimization for heat extraction optimization of enhanced geothermal system. Oral
+
 Chen, G., Jiao, J. J., & Luo, X. (2022), (No. 060301). The 49th IAH Congress, Data-driven evolutionary algorithm for oil and geothermal reservoir well-placement and control optimization. Oral
+
 Chen, G., Jiao, J. J., & Luo, X. (2022), (No. 100200). The 49th IAH (International Association of Hydrogeologists) Congress, Deep generative model based stochastic inversion for fracture network characterization. Oral
 
 Reviewer Service
