@@ -66,5 +66,23 @@ Chen, G., Jiao, J. J., & Luo, X. (2022), (No. 100200). The 49th IAH (Internation
 
 Reviewer Service
 ------
-Applied Energy; IEEE Transactions on Artificial Intelligence; Swarm and Evolutionary Computation; Information Sciences; Journal of Hydrology; Fuel; Structural and Multidisciplinary Optimization; Evolutionary Intelligence; SN Applied Sciences; Mathematical Biosciences and Engineering
+Applied Energy; 
+
+IEEE Transactions on Artificial Intelligence; 
+
+Swarm and Evolutionary Computation; 
+
+Information Sciences; 
+
+Journal of Hydrology; 
+
+Fuel; 
+
+Structural and Multidisciplinary Optimization; 
+
+Evolutionary Intelligence; 
+
+SN Applied Sciences; 
+
+Mathematical Biosciences and Engineering
 
