@@ -23,28 +23,28 @@ Honours & Awards
 
 Publications
 ======
-Chen, G., Jiao, J. J., Wang, Z., & Jin, Y., Machine Learning-Accelerated Discovery of Optimal Multi-Objective Fractured Geothermal System Design. Nexus (Major Revision) (Cell Press) [Code](https://github.com/JellyChen7/ALEMO)
+Chen, G., Jiao, J. J., Wang, Z., & Jin, Y., Machine Learning-Accelerated Discovery of Optimal Multi-Objective Fractured Geothermal System Design. Nexus (Major Revision) (Cell Press) [Code](https://github.com/JellyChen7/ALEMO) 
 
 Chen, G., Wang, Z., Liu, Q., & Jin, Y., Attention-Enhanced Evolving Net for MultiObjective Expensive
 Optimization. IEEE Transactions on Evolutionary Computation (Under Review) (IF: 11.7)
 
 Chen, G., Jiao, J. J., Wang, Z., & Dai, Q., Multi-fidelity machine learning with knowledge transfer enhances geothermal energy system design and optimization. Renewable Energy (Under Review) (IF: 9.0)
 
-Chen, G., Jiao, J. J., Xue, X., & Wang, Z., Rank-Based Learning and Local Model Based Evolutionary Algorithm for High-Dimensional Expensive Multi-Objective Problems. IEEE Transactions on Systems, Man, and Cybernetics: Systems, arXiv preprint arXiv:2304.09444 (Under Review after Revision) (IF: 8.6)
+Chen, G., Jiao, J. J., Xue, X., & Wang, Z., Rank-Based Learning and Local Model Based Evolutionary Algorithm for High-Dimensional Expensive Multi-Objective Problems. IEEE Transactions on Systems, Man, and Cybernetics: Systems, (Under Review after Revision) (IF: 8.6) [Paper](https://arxiv.org/pdf/2304.09444)
 
-Chen, G., Jiao, J. J., Jiang, C., & Luo, X. (2024). Surrogate-assisted level-based learning evolutionary search for geothermal heat extraction optimization. Renewable and Sustainable Energy Reviews, 189, 113860. (IF: 16.3)
+Chen, G., Jiao, J. J., Jiang, C., & Luo, X. (2024). Surrogate-assisted level-based learning evolutionary search for geothermal heat extraction optimization. Renewable and Sustainable Energy Reviews, 189, 113860. (IF: 16.3) [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1364032123007189)
 
-Chen, G., Luo, X., Jiao, J. J., & Jiang, C. (2023). Fracture network characterization with deep generative model based stochastic inversion. Energy, 273, 127302. (IF: 9.0)
+Chen, G., Luo, X., Jiao, J. J., & Jiang, C. (2023). Fracture network characterization with deep generative model based stochastic inversion. Energy, 273, 127302. (IF: 9.0) [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0360544223006965)
 
-Chen, G., Luo, X., Jiao, J. J., & Xue, X. (2022). Data-driven evolutionary algorithm for oil reservoir well-placement and control optimization. Fuel, 326, 125125. (IF: 6.7)
+Chen, G., Luo, X., Jiao, J. J., & Xue, X. (2022). Data-driven evolutionary algorithm for oil reservoir well-placement and control optimization. Fuel, 326, 125125. (IF: 6.7) [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0016236122019664)
 
-Chen, G., Zhang, K., Xue, X., Zhang, L., Yao, C., Wang, J., & Yao, J. (2022). A radial basis function surrogate model assisted evolutionary algorithm for high-dimensional expensive optimization problems. Applied Soft Computing, 116, 108353. (IF: 7.2)
+Chen, G., Zhang, K., Xue, X., Zhang, L., Yao, C., Wang, J., & Yao, J. (2022). A radial basis function surrogate model assisted evolutionary algorithm for high-dimensional expensive optimization problems. Applied Soft Computing, 116, 108353. (IF: 7.2) [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494621011339)
 
-Chen, G., Li, Y., Zhang, K., Xue, X., Wang, J., Luo, Q., ... & Yao, J. (2021). Efficient hierarchical surrogate-assisted differential evolution for high-dimensional expensive optimization. Information Sciences, 542, 228-246. (IF: 8.1)
+Chen, G., Li, Y., Zhang, K., Xue, X., Wang, J., Luo, Q., ... & Yao, J. (2021). Efficient hierarchical surrogate-assisted differential evolution for high-dimensional expensive optimization. Information Sciences, 542, 228-246. (IF: 8.1) [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025520306332)
 
-Chen, G., Zhang, K., Zhang, L., Xue, X., Ji, D., Yao, C., ... & Yang, Y. (2020). Global and local surrogate-model-assisted differential evolution for waterflooding production optimization. SPE Journal, 25(01), 105-118.  (IF: 3.2)
+Chen, G., Zhang, K., Zhang, L., Xue, X., Ji, D., Yao, C., ... & Yang, Y. (2020). Global and local surrogate-model-assisted differential evolution for waterflooding production optimization. SPE Journal, 25(01), 105-118.  (IF: 3.2) [Paper](https://onepetro.org/SJ/article-abstract/25/01/105/452952/Global-and-Local-Surrogate-Model-Assisted)
 
-Chen, G., Zhang, K., Xue, X., Zhang, L., Yao, J., Sun, H., ... & Yang, Y. (2020). Surrogate-assisted evolutionary algorithm with dimensionality reduction method for water flooding production optimization. Journal of Petroleum Science and Engineering, 185, 106633. (IF: 5.2)
+Chen, G., Zhang, K., Xue, X., Zhang, L., Yao, J., Sun, H., ... & Yang, Y. (2020). Surrogate-assisted evolutionary algorithm with dimensionality reduction method for water flooding production optimization. Journal of Petroleum Science and Engineering, 185, 106633. (IF: 5.2) [Paper](https://www.sciencedirect.com/science/article/pii/S092041051931054X)
 
 Conference papers/Invited talk
 ======
