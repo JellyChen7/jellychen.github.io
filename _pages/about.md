@@ -78,6 +78,8 @@ Journal of Hydrology;
 
 Fuel; 
 
+Complex & Intelligent Systems;
+
 Structural and Multidisciplinary Optimization; 
 
 Evolutionary Intelligence; 
