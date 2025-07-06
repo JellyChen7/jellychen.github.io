@@ -96,5 +96,6 @@ Mathematical Biosciences and Engineering
 Projects
 ------
 ADVANCEA - Advancing Controlled Environment Agriculture Through Data-Driven Decision-Making and Workforce Development (The U.S. Department of Agriculture -- US$3.77 million) Participate
-The Poshan drainage tunnel system as an intensively instrumented hillslope critical zone observatory to explore groundwater dynamics and its engineering and ecological implications (Research Grants Council of Hong Kong CRF project -- HK$8.44 million) Participate
+
+The Poshan drainage tunnel system as an intensively instrumented hillslope critical zone observatory to explore groundwater dynamics and its engineering and ecological implications (Research Grants Council of Hong Kong Collaborative Research Fund project -- HK$8.44 million) Participate
 
