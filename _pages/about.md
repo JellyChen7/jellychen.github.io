@@ -9,9 +9,15 @@ redirect_from:
 
 I am a postdoc researcher in Cornell University, where I worked on geothermal greenhouse and AI for Science projects with Prof. [Fengqi You](https://scholar.google.com/citations?user=3ixInr8AAAAJ&hl=zh-CN&oi=ao) in [Process-Energy-Environmental Systems Engineering (PEESE) lab](https://www.peese.org/). I obtained my PhD degree in The University of Hong Kong (Department of Earth Sciences), where I worked on AI for Geothermal Energy with Prof. [Jiu Jimmy Jiao](https://scholar.google.com/citations?user=t7zybZUAAAAJ&hl=zh-TW&oi=ao) in [Hydrogeology Research Group](https://hydrogeology.hku.hk/). I obtained my Bachelor and Marster degree in China University of Petroelum (East China), majoring in petroleum engineering, where I worked on AI for Smart Oil Field with Prof. [Kai Zhang](https://scholar.google.com/citations?user=BGN7ht0AAAAJ&hl=zh-TW) in [Oil and Gas Intelligent Development Technology Research Group](http://ai.pe.upc.edu.cn/_t1540/main.psp). Toward accelerating scientific simulation, design and discovery with machine learning (AI + Science), my research interests encompass:
 
-CO2 sequestration storage, geothermal & oil reservoir modelling, data assimilation, well-placement & control optimization, fracture inversion, AI for scientific simulation, design and discovery
+AI for Scientific simulation, design, and discovery 
+AI for geothermal and hydrocarbon energy systems for a sustainable energy future
+Generative AI for controlled environment agriculture and energy-food-water nexus
+Subsurface energy system resilience and sustainability
 
-Expensive optimization, multi-objective optimization, transfer optimization, machine learning, learn to optimize, reinforcement learning, denoising diffusion model
+
+Application scenarios: CO2 sequestration storage, geothermal & oil reservoir modelling, data assimilation, well-placement & control optimization, fracture inversion, AI for scientific simulation, design and discovery
+
+AI algorithms: Expensive optimization, multi-objective optimization, transfer optimization, machine learning, learn to optimize, reinforcement learning, denoising diffusion model
 
 Honours & Awards
 ======
@@ -97,5 +103,5 @@ Projects
 ------
 ADVANCEA - Advancing Controlled Environment Agriculture Through Data-Driven Decision-Making and Workforce Development (The U.S. Department of Agriculture -- US$3.77 million) Participate
 
-The Poshan drainage tunnel system as an intensively instrumented hillslope critical zone observatory to explore groundwater dynamics and its engineering and ecological implications (Research Grants Council of Hong Kong Collaborative Research Fund project -- HK$8.44 million) Participate
+The Poshan drainage tunnel system as an intensively instrumented hillslope critical zone observatory to explore groundwater dynamics and its engineering and ecological implications (Research Grants Council of Hong Kong Collaborative Research Fund project -- HK$2.79 million) Participate
 
