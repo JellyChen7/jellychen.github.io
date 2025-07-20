@@ -105,3 +105,5 @@ ADVANCEA - Advancing Controlled Environment Agriculture Through Data-Driven Deci
 
 The Poshan drainage tunnel system as an intensively instrumented hillslope critical zone observatory to explore groundwater dynamics and its engineering and ecological implications (Research Grants Council of Hong Kong Collaborative Research Fund project -- HK$2.79 million) Participate
 
+Digital Twin-empowered Landslide Emergency Risk Management (Research Grants Council of Hong Kong Collaborative Research Fund project -- HK$2.506 million) Participate
+
