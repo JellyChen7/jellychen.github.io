@@ -31,7 +31,7 @@ Publications
 ======
 Chen, G., You, F. (2025). Climate-Resilient Plant Factory Cultivation via Diffusion Policy for Intelligent Energy Management and Sustainable Crop Production. Applied Energy. (Under Review) (IF: 11.0)
 
-Chen, G., Jiao, J. J., Wang, Z., Mao, R., Yang T., Generative Inversion of Subsurface Fracture Networks via Denoising Diffusion Models. Nature Communications (Under Review) (IF: 15.7) [[Code]](https://github.com/JellyChen7/GenFrac) 
+Chen, G., Jiao, J. J., Wang, Z., Mao, R., Yang T., Generative Inversion of Subsurface Fracture Networks via Denoising Diffusion Models. (Under Review) [[Code]](https://github.com/JellyChen7/GenFrac) 
 
 Chen, G., Jiao, J. J., Wang, Z., & Jin, Y., Machine Learning-Accelerated Multi-Objective Design of Fractured Geothermal Systems. Nexus (Cell Press) [[Paper]](https://www.cell.com/nexus/fulltext/S2950-1601(24)00042-1) [[Code]](https://github.com/JellyChen7/ALEMO) 
 
