@@ -77,6 +77,8 @@ Applied Energy;
 
 IEEE Transactions on Systems, Man, and Cybernetics: Systems;
 
+Geophysical Research Letters;
+
 Swarm and Evolutionary Computation; 
 
 Information Sciences; 
@@ -86,6 +88,8 @@ Journal of Hydrology;
 Advances in Geo-Energy Research;
 
 IEEE Transactions on Artificial Intelligence; 
+
+Applied Soft Computing;
 
 Fuel; 
 
