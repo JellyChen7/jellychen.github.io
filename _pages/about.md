@@ -96,6 +96,8 @@ Applied Soft Computing;
 
 Fuel; 
 
+Scientific Reports; 
+
 Complex & Intelligent Systems;
 
 Structural and Multidisciplinary Optimization; 
