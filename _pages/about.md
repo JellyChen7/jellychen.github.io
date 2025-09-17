@@ -116,3 +116,4 @@ Digital Twin-empowered Landslide Emergency Risk Management (Research Grants Coun
 
 ADVANCEA - Advancing Controlled Environment Agriculture Through Data-Driven Decision-Making and Workforce Development (The U.S. Department of Agriculture -- US$3.77 million) Participate
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ewcit6dbr21sN_H1W7FrIsT7oGsPAbBWnjn2ZH1UI8U&cl=ffffff&w=a"></script>
