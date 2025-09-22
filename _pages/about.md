@@ -84,6 +84,8 @@ Swarm and Evolutionary Computation;
 
 Geophysical Research Letters;
 
+Water Resources Research;
+
 Information Sciences; 
 
 Journal of Hydrology; 
