@@ -32,6 +32,8 @@ Honours & Awards
 
 Publications
 ======
+Chen, G., You, F. (2025). Energy-Efficient Greenhouse Climate Control with Diffusion Reinforcement Learning. (Submitted)
+
 Chen, G., You, F. (2025). Climate-Resilient Plant Factory Cultivation via Diffusion Policy for Intelligent Energy Management and Sustainable Crop Production. Applied Energy. (Under Review) (IF: 11.0)
 
 Chen, G., Jiao, J. J., Wang, Z., Mao, R., Yang T., Generative Inversion of Subsurface Fracture Networks via Denoising Diffusion Models. (Under Review) [[Code]](https://github.com/JellyChen7/GenFrac) 
