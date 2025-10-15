@@ -24,7 +24,7 @@ AI algorithms: Expensive optimization, multi-objective optimization, transfer op
 
 Honours & Awards
 ======
- Scholarship：“National Scholarship” (1%); “National Endeavor Scholarship” (twice) (3%); “First-class scholarship for top talents in international classes” (3%); “Bank of China Scholarship” (5%); “Science and Technology Innovation Scholarship” (5%); “Innovative Entrepreneurship Practice Excellence Star Scholarship” (5%); “Outstanding Contribution Scholarship” (3%); “Academic First-class Scholarship” (twice) (3%); “Excellent Student Scholarship” (30%)
+ Scholarship：“National Scholarship” of China Ministry of Education (1%); “National Endeavor Scholarship” (twice) (3%); “First-class scholarship for top talents in international classes” (3%); “Bank of China Scholarship” (5%); “Science and Technology Innovation Scholarship” (5%); “Innovative Entrepreneurship Practice Excellence Star Scholarship” (5%); “Outstanding Contribution Scholarship” (3%); “Academic First-class Scholarship” (twice) (3%); “Excellent Student Scholarship” (30%)
  
  Title of Honour：” HKU Foundation Excellent PhD Award” (5%); “Excellent students” (15%); “Campus cultural and artistic activists” (15%); “Science and technology activists (15%)”; “Outstanding Master's Thesis of Shandong Province Graduate Students (1%)”
  
