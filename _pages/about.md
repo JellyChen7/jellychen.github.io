@@ -53,9 +53,15 @@ My research aims to enhance scientific simulation, design, and discovery through
 - Campus Cultural and Artistic Activists (15%)
 - Science and Technology Activists (15%)
 - Outstanding Master's Thesis of Shandong Province Graduate Students (1%)
-- 
+
 ### Competitions
-- The Second Prize of The 15th China Post-graduate Mathematical Contest in Modeling (10%); The Second Prize of the American College Students Mathematical Modeling Contest (30%); The Second Prize of the SPE Petro-Gathering Digital Oilfield Design Contest (10%); The Second Prize of the Shandong University Student Science and Technology Innovation Competition (5%); The Second Prize of the Tenth Oil Drilling and Mining Model Design Competition (10%); Second Prize in Shandong Province “Challenge Cup” Competition (5%); Shandong Province “Internet +” Competition Silver Award (5%)
+- The Second Prize of The 15th China Post-graduate Mathematical Contest in Modeling (10%);
+- The Second Prize of the American College Students Mathematical Modeling Contest (30%);
+- The Second Prize of the SPE Petro-Gathering Digital Oilfield Design Contest (10%);
+- The Second Prize of the Shandong University Student Science and Technology Innovation Competition (5%);
+- The Second Prize of the Tenth Oil Drilling and Mining Model Design Competition (10%);
+- Second Prize in Shandong Province “Challenge Cup” Competition (5%);
+- Shandong Province “Internet +” Competition Silver Award (5%)
 
 ## Publications
 ======
@@ -125,14 +131,10 @@ Reviewer Service
 
 ## Projects
 ------
-- The Poshan Drainage Tunnel System: Instrumented hillslope observatory to explore groundwater dynamics. (Research Grants Council of Hong Kong, HK$2.79 million) Participate
-- Digital Twin-empowered Landslide Emergency Risk Management: (Research Grants Council of Hong Kong, H  ParticipateK$2.506 million)
-- ADVANCEA: Advancing controlled environment agriculture through data-driven decision-making. (U.S. Department of Agriculture, US$3.77 million) Participate
+- The Poshan drainage tunnel system as an intensively instrumented hillslope critical zone observatory to explore groundwater dynamics and its engineering and ecological implications (Research Grants Council of Hong Kong, Collaborative Research Fund project -- HK$2.79 million) Participate
 
-The Poshan drainage tunnel system as an intensively instrumented hillslope critical zone observatory to explore groundwater dynamics and its engineering and ecological implications (Research Grants Council of Hong Kong, Collaborative Research Fund project -- HK$2.79 million) Participate
+- Digital Twin-empowered Landslide Emergency Risk Management (Research Grants Council of Hong Kong, Theme-based Research Scheme -- HK$2.506 million) Participate
 
-Digital Twin-empowered Landslide Emergency Risk Management (Research Grants Council of Hong Kong, Theme-based Research Scheme -- HK$2.506 million) Participate
-
-ADVANCEA - Advancing Controlled Environment Agriculture Through Data-Driven Decision-Making and Workforce Development (The U.S. Department of Agriculture -- US$3.77 million) Participate
+- ADVANCEA - Advancing Controlled Environment Agriculture Through Data-Driven Decision-Making and Workforce Development (The U.S. Department of Agriculture -- US$3.77 million) Participate
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=ewcit6dbr21sN_H1W7FrIsT7oGsPAbBWnjn2ZH1UI8U&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
