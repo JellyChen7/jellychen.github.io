@@ -64,8 +64,6 @@ My research aims to enhance scientific simulation, design, and discovery through
 - Shandong Province “Internet +” Competition Silver Award (5%)
 
 ## Publications
-======
-
 Chen, G., You, F. (2025). Energy-Efficient Greenhouse Climate Control with Diffusion Reinforcement Learning. (Submitted)
 
 Chen, G., You, F. (2025). Climate-Resilient Plant Factory Cultivation via Diffusion Policy for Intelligent Energy Management and Sustainable Crop Production. Applied Energy. (Under Revision) (IF: 11.0)
@@ -95,8 +93,6 @@ Chen, G., Zhang, K., Zhang, L., Xue, X., Ji, D., Yao, C., ... & Yang, Y. (2020).
 Chen, G., Zhang, K., Xue, X., Zhang, L., Yao, J., Sun, H., ... & Yang, Y. (2020). Surrogate-assisted evolutionary algorithm with dimensionality reduction method for water flooding production optimization. Journal of Petroleum Science and Engineering, 185, 106633. (IF: 5.2) [[Paper]](https://www.sciencedirect.com/science/article/pii/S092041051931054X)
 
 ## Conference Papers & Invited Talks
-======
-
 Chen, G., & Jiao, J. J., (2024) AGU24, Machine Learning-Enabled Discovery of Optimal Fractured Geothermal Systems Design. Oral
 
 Chen, G., & Jiao, J. J., (2024) AGU24, Accelerated Generative Inversion of Fracture Networks via Diffusion Models. Poster
