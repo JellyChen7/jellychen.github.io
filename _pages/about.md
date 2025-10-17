@@ -36,8 +36,9 @@ My research aims to enhance scientific simulation, design, and discovery through
 - Denoising diffusion models
 
 ## Honours & Awards
-======
+
 ### Scholarships
+
 - National Scholarship from China Ministry of Education (1%)
 - National Endeavor Scholarship (twice) (3%)
 - First-Class Scholarship for Top Talents (3%)
@@ -48,6 +49,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 - Excellent Student Scholarship (10%)
  
 ### Titles of Honor
+
 - HKU Foundation Excellent PhD Award (5%)
 - Excellent Students (15%)
 - Campus Cultural and Artistic Activists (15%)
@@ -55,6 +57,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 - Outstanding Master's Thesis of Shandong Province Graduate Students (1%)
 
 ### Competitions
+
 - The Second Prize of The 15th China Post-graduate Mathematical Contest in Modeling (10%);
 - The Second Prize of the American College Students Mathematical Modeling Contest (30%);
 - The Second Prize of the SPE Petro-Gathering Digital Oilfield Design Contest (10%);
@@ -93,6 +96,7 @@ Chen, G., Zhang, K., Zhang, L., Xue, X., Ji, D., Yao, C., ... & Yang, Y. (2020).
 Chen, G., Zhang, K., Xue, X., Zhang, L., Yao, J., Sun, H., ... & Yang, Y. (2020). Surrogate-assisted evolutionary algorithm with dimensionality reduction method for water flooding production optimization. Journal of Petroleum Science and Engineering, 185, 106633. (IF: 5.2) [[Paper]](https://www.sciencedirect.com/science/article/pii/S092041051931054X)
 
 ## Conference Papers & Invited Talks
+
 Chen, G., & Jiao, J. J., (2024) AGU24, Machine Learning-Enabled Discovery of Optimal Fractured Geothermal Systems Design. Oral
 
 Chen, G., & Jiao, J. J., (2024) AGU24, Accelerated Generative Inversion of Fracture Networks via Diffusion Models. Poster
