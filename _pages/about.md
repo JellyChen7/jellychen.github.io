@@ -65,6 +65,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 
 ## Publications
 ======
+
 Chen, G., You, F. (2025). Energy-Efficient Greenhouse Climate Control with Diffusion Reinforcement Learning. (Submitted)
 
 Chen, G., You, F. (2025). Climate-Resilient Plant Factory Cultivation via Diffusion Policy for Intelligent Energy Management and Sustainable Crop Production. Applied Energy. (Under Revision) (IF: 11.0)
@@ -95,6 +96,7 @@ Chen, G., Zhang, K., Xue, X., Zhang, L., Yao, J., Sun, H., ... & Yang, Y. (2020)
 
 ## Conference Papers & Invited Talks
 ======
+
 Chen, G., & Jiao, J. J., (2024) AGU24, Machine Learning-Enabled Discovery of Optimal Fractured Geothermal Systems Design. Oral
 
 Chen, G., & Jiao, J. J., (2024) AGU24, Accelerated Generative Inversion of Fracture Networks via Diffusion Models. Poster
