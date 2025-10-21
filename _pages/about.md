@@ -14,7 +14,7 @@ I am a postdoc researcher in Lawrence Berkeley National Laboratory & University 
 My research aims to enhance scientific simulation, design, and discovery through machine learning (AI + Science). I am particularly interested in:
 
 - AI for Scientific Simulation, Design, and Discovery
-- AI for Geothermal and Hydrocarbon Energy Systems for a sustainable future
+- AI for Geothermal and Hydrocarbon Energy Systems for a Sustainable Future
 - Generative AI for Controlled Environment Agriculture and the Energy-Food-Water Nexus
 - Resilience and Sustainability of Subsurface Energy Systems
 
