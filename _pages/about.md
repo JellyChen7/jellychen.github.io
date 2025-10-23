@@ -75,7 +75,7 @@ Chen, G., Jiao, J. J., Wang, Z., Mao, R., Yang T., Physics-Supervised Autonomous
 
 Chen, G., Jiao, J. J., Wang, Z., & Jin, Y., Machine Learning-Accelerated Multi-Objective Design of Fractured Geothermal Systems. Nexus (Cell Press) [[Paper]](https://www.cell.com/nexus/fulltext/S2950-1601(24)00042-1) [[Code]](https://github.com/JellyChen7/ALEMO) 
 
-Chen, G., Wang, Z., Liu, Q., Jiao, J. J., & Jin, Y., Expensive Multi-Objective Optimization Guided by Attention Enhanced Generative Models. IEEE Transactions on Neural Networks and Learning Systems. (Under Review after Minor Revision) (IF: 8.9)
+Chen, G., Wang, Z., Liu, Q., Jiao, J. J., & Jin, Y., Expensive Multi-Objective Optimization Guided by Attention Enhanced Generative Models. IEEE Transactions on Neural Networks and Learning Systems. (IF: 8.9)
 
 Chen, G., Jiao, J. J., Wang, Z., & Dai, Q. (2025). Multi-fidelity machine learning with knowledge transfer enhances geothermal energy system design and optimization. Advances in Geo-Energy Research, 16(3), 244-259. (IF: 10.0)  [[Paper]](https://ager.yandypress.com/index.php/2207-9963/article/view/506/524)
 
