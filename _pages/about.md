@@ -9,7 +9,7 @@ redirect_from:
 
 I am a postdoc researcher in Lawrence Berkeley National Laboratory & University of California, Berkeley, where I worked on seismic imaging and seismic interpretation. My supervisors are Prof. [Nori Nakata](https://www.mit.edu/~nnakata/page/About_Nori.html) in LBNL & MIT and Prof. [Kenichi Soga](https://ce.berkeley.edu/people/faculty/soga) in UC Berkeley. I was a postdoc researcher in Cornell University, where I worked on geothermal greenhouse projects with Prof. [Fengqi You](https://scholar.google.com/citations?user=3ixInr8AAAAJ&hl=zh-CN&oi=ao) in [Process-Energy-Environmental Systems Engineering (PEESE) lab](https://www.peese.org/). I obtained my PhD degree in The University of Hong Kong (Department of Earth Sciences), where I worked on AI for Geothermal Energy with Prof. [Jiu Jimmy Jiao](https://scholar.google.com/citations?user=t7zybZUAAAAJ&hl=zh-TW&oi=ao) in [Hydrogeology Research Group](https://hydrogeology.hku.hk/). I obtained my Bachelor and Marster degree in China University of Petroelum (East China), majoring in petroleum engineering, where I worked on AI for Smart Oil Field with Prof. [Kai Zhang](https://scholar.google.com/citations?user=BGN7ht0AAAAJ&hl=zh-TW) in [Oil and Gas Intelligent Development Technology Research Group](http://ai.pe.upc.edu.cn/_t1540/main.psp). Toward accelerating scientific simulation, design and discovery with machine learning (AI + Science), my research interests encompass:
 
-### Research Interests
+ ### 🧠Research Interests
 
 My research aims to enhance scientific simulation, design, and discovery through machine learning (AI + Science). I am particularly interested in:
 
@@ -18,7 +18,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 - Generative AI for Controlled Environment Agriculture and the Energy-Food-Water Nexus
 - Resilience and Sustainability of Subsurface Energy Systems
 
-### Application Scenarios
+### 🌍Application Scenarios
 
 - CO2 sequestration and storage
 - Geothermal and oil reservoir modeling
@@ -26,7 +26,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 - Well-placement and control optimization
 - Fracture inversion
 
-### AI Algorithms
+### 🧩AI Algorithms
 
 - Expensive optimization
 - Multi-objective optimization
@@ -35,7 +35,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 - Reinforcement learning
 - Denoising diffusion models
 
-## Honours & Awards
+## 🏅Honours & Awards
 
 ### Scholarships
 
@@ -66,7 +66,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 - Second Prize in Shandong Province “Challenge Cup” Competition (5%);
 - Shandong Province “Internet +” Competition Silver Award (5%)
 
-## Publications
+## 📚Publications
 Chen, G., You, F. (2025). Energy-Efficient Greenhouse Climate Control with Diffusion Reinforcement Learning. (Submitted)
 
 Chen, G., You, F. (2025). Climate-Resilient Plant Factory Cultivation via Diffusion Policy for Intelligent Energy Management and Sustainable Crop Production. Applied Energy. (Under Revision) (IF: 11.0)
@@ -95,7 +95,7 @@ Chen, G., Zhang, K., Zhang, L., Xue, X., Ji, D., Yao, C., ... & Yang, Y. (2020).
 
 Chen, G., Zhang, K., Xue, X., Zhang, L., Yao, J., Sun, H., ... & Yang, Y. (2020). Surrogate-assisted evolutionary algorithm with dimensionality reduction method for water flooding production optimization. Journal of Petroleum Science and Engineering, 185, 106633. (IF: 5.2) [[Paper]](https://www.sciencedirect.com/science/article/pii/S092041051931054X)
 
-## Conference Papers & Invited Talks
+## 🎤Conference Papers & Invited Talks
 
 Chen, G., & Jiao, J. J., (2024) AGU24, Machine Learning-Enabled Discovery of Optimal Fractured Geothermal Systems Design. Oral
 
@@ -111,7 +111,7 @@ Chen, G., Jiao, J. J., & Luo, X. (2022), (No. 060301). The 49th IAH Congress, Da
 
 Chen, G., Jiao, J. J., & Luo, X. (2022), (No. 100200). The 49th IAH (International Association of Hydrogeologists) Congress, Deep generative model based stochastic inversion for fracture network characterization. Oral
 
-Reviewer Service
+## 🔍Reviewer Service
 ------
 - Applied Energy; 
 - IEEE Transactions on Systems, Man, and Cybernetics: Systems;
@@ -131,12 +131,13 @@ Reviewer Service
 - SN Applied Sciences; 
 - Mathematical Biosciences and Engineering
 
-## Projects
+## 🧪Projects
 ------
 - The Poshan drainage tunnel system as an intensively instrumented hillslope critical zone observatory to explore groundwater dynamics and its engineering and ecological implications (Research Grants Council of Hong Kong, Collaborative Research Fund project -- HK$2.79 million) Participate
 
 - Digital Twin-empowered Landslide Emergency Risk Management (Research Grants Council of Hong Kong, Theme-based Research Scheme -- HK$2.506 million) Participate
 
 - ADVANCEA - Advancing Controlled Environment Agriculture Through Data-Driven Decision-Making and Workforce Development (The U.S. Department of Agriculture -- US$3.77 million) Participate
+
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=ewcit6dbr21sN_H1W7FrIsT7oGsPAbBWnjn2ZH1UI8U&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
