@@ -71,7 +71,7 @@ Chen, G., You, F. (2025). Energy-Efficient Greenhouse Climate Control with Diffu
 
 Chen, G., You, F. (2025). Climate-Resilient Plant Factory Cultivation via Diffusion Policy for Intelligent Energy Management and Sustainable Crop Production. Applied Energy. (Under Revision) (IF: 11.0)
 
-Chen, G., Jiao, J. J., Wang, Z., Mao, R., Yang T., Physics-Supervised Autonomous Inverse Fracture Modelling via Generative Artificial Intelligence. Geophysical Research Letters (Under Revision) [[Code]](https://github.com/JellyChen7/GenFrac) 
+Chen, G., Jiao, J. J., Wang, Z., Mao, R., Yang T., Physics-Supervised Autonomous Inverse Fracture Modelling via Generative Artificial Intelligence. Geophysical Research Letters (Under Revision) (Nature Index, IF: 4.6) [[Code]](https://github.com/JellyChen7/GenFrac) 
 
 Chen, G., Jiao, J. J., Wang, Z., & Jin, Y., Machine Learning-Accelerated Multi-Objective Design of Fractured Geothermal Systems. Nexus (Cell Press) [[Paper]](https://www.cell.com/nexus/fulltext/S2950-1601(24)00042-1) [[Code]](https://github.com/JellyChen7/ALEMO) 
 
