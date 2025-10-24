@@ -67,49 +67,49 @@ My research aims to enhance scientific simulation, design, and discovery through
 - Shandong Province “Internet +” Competition Silver Award (5%)
 
 ## 📚Publications
-Chen, G., You, F. (2025). Energy-Efficient Greenhouse Climate Control with Diffusion Reinforcement Learning. (Submitted)
+**Chen, G.**, You, F. (2025), Energy-Efficient Greenhouse Climate Control with Diffusion Reinforcement Learning. (Submitted)
 
-Chen, G., You, F. (2025). Climate-Resilient Plant Factory Cultivation via Diffusion Policy for Intelligent Energy Management and Sustainable Crop Production. Applied Energy. (Under Revision) (IF: 11.0)
+**Chen, G.**, You, F. (2025), Climate-Resilient Plant Factory Cultivation via Diffusion Policy for Intelligent Energy Management and Sustainable Crop Production. Applied Energy. (Under Revision) (IF: 11.0)
 
-Chen, G., Jiao, J. J., Wang, Z., Mao, R., Yang T., Physics-Supervised Autonomous Inverse Fracture Modelling via Generative Artificial Intelligence. Geophysical Research Letters (Under Revision) (Nature Index, IF: 4.6) [[Code]](https://github.com/JellyChen7/GenFrac) 
+**Chen, G.**, Jiao, J. J., Wang, Z., Mao, R., Yang T., (2025). Physics-Supervised Autonomous Inverse Fracture Modelling via Generative Artificial Intelligence. Geophysical Research Letters (Under Revision) (Nature Index, IF: 4.6) [[Code]](https://github.com/JellyChen7/GenFrac) 
 
-Chen, G., Jiao, J. J., Wang, Z., & Jin, Y., Machine Learning-Accelerated Multi-Objective Design of Fractured Geothermal Systems. Nexus (Cell Press) [[Paper]](https://www.cell.com/nexus/fulltext/S2950-1601(24)00042-1) [[Code]](https://github.com/JellyChen7/ALEMO) 
+**Chen, G.**, Jiao, J. J., Wang, Z., & Jin, Y., Machine Learning-Accelerated Multi-Objective Design of Fractured Geothermal Systems. Nexus (Cell Press) [[Paper]](https://www.cell.com/nexus/fulltext/S2950-1601(24)00042-1) [[Code]](https://github.com/JellyChen7/ALEMO) 
 
-Chen, G., Wang, Z., Liu, Q., Jiao, J. J., & Jin, Y., Expensive Multi-Objective Optimization Guided by Attention Enhanced Generative Models. IEEE Transactions on Neural Networks and Learning Systems. (IF: 8.9)
+**Chen, G.**, Wang, Z., Liu, Q., Jiao, J. J., & Jin, Y., Expensive Multi-Objective Optimization Guided by Attention Enhanced Generative Models. IEEE Transactions on Neural Networks and Learning Systems. (IF: 8.9)
 
-Chen, G., Jiao, J. J., Wang, Z., & Dai, Q. (2025). Multi-fidelity machine learning with knowledge transfer enhances geothermal energy system design and optimization. Advances in Geo-Energy Research, 16(3), 244-259. (IF: 10.0)  [[Paper]](https://ager.yandypress.com/index.php/2207-9963/article/view/506/524)
+**Chen, G.**, Jiao, J. J., Wang, Z., & Dai, Q. (2025). Multi-fidelity machine learning with knowledge transfer enhances geothermal energy system design and optimization. Advances in Geo-Energy Research, 16(3), 244-259. (IF: 10.0)  [[Paper]](https://ager.yandypress.com/index.php/2207-9963/article/view/506/524)
 
-Chen, G., Jiao, J. J., Xue, X., & Wang, Z., Rank-Based Learning and Local Model Based Evolutionary Algorithm for High-Dimensional Expensive Multi-Objective Problems. IEEE Transactions on Systems, Man, and Cybernetics: Systems, (Under Review after Minor Revision) (IF: 8.7) [[Paper]](https://arxiv.org/pdf/2304.09444)
+**Chen, G.**, Jiao, J. J., Xue, X., & Wang, Z., Rank-Based Learning and Local Model Based Evolutionary Algorithm for High-Dimensional Expensive Multi-Objective Problems. IEEE Transactions on Systems, Man, and Cybernetics: Systems, (Under Review after Minor Revision) (IF: 8.7) [[Paper]](https://arxiv.org/pdf/2304.09444)
 
-Chen, G., Jiao, J. J., Jiang, C., & Luo, X. (2024). Surrogate-assisted level-based learning evolutionary search for geothermal heat extraction optimization. Renewable and Sustainable Energy Reviews, 189, 113860. (IF: 16.3) [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1364032123007189)
+**Chen, G.**, Jiao, J. J., Jiang, C., & Luo, X. (2024). Surrogate-assisted level-based learning evolutionary search for geothermal heat extraction optimization. Renewable and Sustainable Energy Reviews, 189, 113860. (IF: 16.3) [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1364032123007189)
 
-Chen, G., Luo, X., Jiao, J. J., & Jiang, C. (2023). Fracture network characterization with deep generative model based stochastic inversion. Energy, 273, 127302. (IF: 9.4) [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0360544223006965)
+**Chen, G.**, Luo, X., Jiao, J. J., & Jiang, C. (2023). Fracture network characterization with deep generative model based stochastic inversion. Energy, 273, 127302. (IF: 9.4) [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0360544223006965)
 
-Chen, G., Luo, X., Jiao, J. J., & Xue, X. (2022). Data-driven evolutionary algorithm for oil reservoir well-placement and control optimization. Fuel, 326, 125125. (IF: 7.5) [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0016236122019664)
+**Chen, G.**, Luo, X., Jiao, J. J., & Xue, X. (2022). Data-driven evolutionary algorithm for oil reservoir well-placement and control optimization. Fuel, 326, 125125. (IF: 7.5) [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0016236122019664)
 
-Chen, G., Zhang, K., Xue, X., Zhang, L., Yao, C., Wang, J., & Yao, J. (2022). A radial basis function surrogate model assisted evolutionary algorithm for high-dimensional expensive optimization problems. Applied Soft Computing, 116, 108353. (IF: 7.2) [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1568494621011339)
+**Chen, G.**, Zhang, K., Xue, X., Zhang, L., Yao, C., Wang, J., & Yao, J. (2022). A radial basis function surrogate model assisted evolutionary algorithm for high-dimensional expensive optimization problems. Applied Soft Computing, 116, 108353. (IF: 7.2) [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1568494621011339)
 
-Chen, G., Li, Y., Zhang, K., Xue, X., Wang, J., Luo, Q., ... & Yao, J. (2021). Efficient hierarchical surrogate-assisted differential evolution for high-dimensional expensive optimization. Information Sciences, 542, 228-246. (IF: 8.1) [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0020025520306332)
+**Chen, G.**, Li, Y., Zhang, K., Xue, X., Wang, J., Luo, Q., ... & Yao, J. (2021). Efficient hierarchical surrogate-assisted differential evolution for high-dimensional expensive optimization. Information Sciences, 542, 228-246. (IF: 8.1) [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0020025520306332)
 
-Chen, G., Zhang, K., Zhang, L., Xue, X., Ji, D., Yao, C., ... & Yang, Y. (2020). Global and local surrogate-model-assisted differential evolution for waterflooding production optimization. SPE Journal, 25(01), 105-118.  (IF: 3.2) [[Paper]](https://onepetro.org/SJ/article-abstract/25/01/105/452952/Global-and-Local-Surrogate-Model-Assisted)
+**Chen, G.**, Zhang, K., Zhang, L., Xue, X., Ji, D., Yao, C., ... & Yang, Y. (2020). Global and local surrogate-model-assisted differential evolution for waterflooding production optimization. SPE Journal, 25(01), 105-118.  (IF: 3.2) [[Paper]](https://onepetro.org/SJ/article-abstract/25/01/105/452952/Global-and-Local-Surrogate-Model-Assisted)
 
-Chen, G., Zhang, K., Xue, X., Zhang, L., Yao, J., Sun, H., ... & Yang, Y. (2020). Surrogate-assisted evolutionary algorithm with dimensionality reduction method for water flooding production optimization. Journal of Petroleum Science and Engineering, 185, 106633. (IF: 5.2) [[Paper]](https://www.sciencedirect.com/science/article/pii/S092041051931054X)
+**Chen, G.**, Zhang, K., Xue, X., Zhang, L., Yao, J., Sun, H., ... & Yang, Y. (2020). Surrogate-assisted evolutionary algorithm with dimensionality reduction method for water flooding production optimization. Journal of Petroleum Science and Engineering, 185, 106633. (IF: 5.2) [[Paper]](https://www.sciencedirect.com/science/article/pii/S092041051931054X)
 
 ## 🎤Conference Papers & Invited Talks
 
-Chen, G., & Jiao, J. J., (2024) AGU24, Machine Learning-Enabled Discovery of Optimal Fractured Geothermal Systems Design. Oral
+**Chen, G.**, & Jiao, J. J., (2024) AGU24, Machine Learning-Enabled Discovery of Optimal Fractured Geothermal Systems Design. Oral
 
-Chen, G., & Jiao, J. J., (2024) AGU24, Accelerated Generative Inversion of Fracture Networks via Diffusion Models. Poster
+**Chen, G.**, & Jiao, J. J., (2024) AGU24, Accelerated Generative Inversion of Fracture Networks via Diffusion Models. Poster
 
-Chen, G., & Jiao, J. J., (2023) AGU23, Deep learning enhanced evolutionary multiobjective optimization for accelerated fractured geothermal systems design. Poster
+**Chen, G.**, & Jiao, J. J., (2023) AGU23, Deep learning enhanced evolutionary multiobjective optimization for accelerated fractured geothermal systems design. Poster
 
-Chen, G., Jiao, J. J., & Luo, X. (2023), (No. EGU23-1819). EGU23, Classifier-assisted level-based learning evolutionary search for heat extraction optimization of enhanced geothermal systems. Poster
+**Chen, G.**, Jiao, J. J., & Luo, X. (2023), (No. EGU23-1819). EGU23, Classifier-assisted level-based learning evolutionary search for heat extraction optimization of enhanced geothermal systems. Poster
 
-Chen, G., Jiao, J. J., & Luo, X. 7th Asia Pacific Coastal Aquifer Management Meeting (APCAMM) 2023, Data driven evolutionary optimization for heat extraction optimization of enhanced geothermal system. Oral
+**Chen, G.**, Jiao, J. J., & Luo, X. 7th Asia Pacific Coastal Aquifer Management Meeting (APCAMM) 2023, Data driven evolutionary optimization for heat extraction optimization of enhanced geothermal system. Oral
 
-Chen, G., Jiao, J. J., & Luo, X. (2022), (No. 060301). The 49th IAH Congress, Data-driven evolutionary algorithm for oil and geothermal reservoir well-placement and control optimization. Oral
+**Chen, G.**, Jiao, J. J., & Luo, X. (2022), (No. 060301). The 49th IAH Congress, Data-driven evolutionary algorithm for oil and geothermal reservoir well-placement and control optimization. Oral
 
-Chen, G., Jiao, J. J., & Luo, X. (2022), (No. 100200). The 49th IAH (International Association of Hydrogeologists) Congress, Deep generative model based stochastic inversion for fracture network characterization. Oral
+**Chen, G.**, Jiao, J. J., & Luo, X. (2022), (No. 100200). The 49th IAH (International Association of Hydrogeologists) Congress, Deep generative model based stochastic inversion for fracture network characterization. Oral
 
 ## 🔍Reviewer Service
 ------
