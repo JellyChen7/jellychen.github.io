@@ -9,7 +9,7 @@ redirect_from:
 
 I am a postdoc researcher in Lawrence Berkeley National Laboratory & University of California, Berkeley, where I worked on seismic imaging and seismic interpretation. My supervisors are Prof. [Nori Nakata](https://www.mit.edu/~nnakata/page/About_Nori.html) in LBNL & MIT and Prof. [Kenichi Soga](https://ce.berkeley.edu/people/faculty/soga) in UC Berkeley. I was a postdoc researcher in Cornell University, where I worked on geothermal greenhouse projects with Prof. [Fengqi You](https://scholar.google.com/citations?user=3ixInr8AAAAJ&hl=zh-CN&oi=ao) in [Process-Energy-Environmental Systems Engineering (PEESE) lab](https://www.peese.org/). I obtained my PhD degree in The University of Hong Kong (Department of Earth Sciences), where I worked on AI for Geothermal Energy with Prof. [Jiu Jimmy Jiao](https://scholar.google.com/citations?user=t7zybZUAAAAJ&hl=zh-TW&oi=ao) in [Hydrogeology Research Group](https://hydrogeology.hku.hk/). I obtained my Bachelor and Marster degree in China University of Petroelum (East China), majoring in petroleum engineering, where I worked on AI for Smart Oil Field with Prof. [Kai Zhang](https://scholar.google.com/citations?user=BGN7ht0AAAAJ&hl=zh-TW) in [Oil and Gas Intelligent Development Technology Research Group](http://ai.pe.upc.edu.cn/_t1540/main.psp). Toward accelerating scientific simulation, design and discovery with machine learning (AI + Science), my research interests encompass:
 
- ### 🧠Research Interests
+### 🧠Research Interests
 
 My research aims to enhance scientific simulation, design, and discovery through machine learning (AI + Science). I am particularly interested in:
 
