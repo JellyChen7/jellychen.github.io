@@ -20,7 +20,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 
 ### 🌍Application Scenarios
 
-- CO2 sequestration and storage
+- CO2 sequestration storage
 - Geothermal and oil reservoir modeling
 - Data assimilation
 - Well-placement and control optimization
