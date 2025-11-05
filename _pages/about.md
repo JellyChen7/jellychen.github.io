@@ -71,7 +71,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 
 [13] **Chen, G.**, You, F. (2025), Climate-Resilient Plant Factory Cultivation via Diffusion Policy for Intelligent Energy Management and Sustainable Crop Production. **Applied Energy**. (Under Review after Revision) (IF: 11.0)
 
-[12] **Chen, G.**, Jiao, J. J., Wang, Z., Mao, R., Yang T., (2025). Physics-Supervised Autonomous Inverse Fracture Modelling via Generative Artificial Intelligence. **Geophysical Research Letters** (Under Revision) (Nature Index, IF: 4.6) [[Code]](https://github.com/JellyChen7/GenFrac) 
+[12] **Chen, G.**, Jiao, J. J., Wang, Z., Mao, R., Yang T., Nori, N. (2025). Physics-Supervised Autonomous Inverse Fracture Modelling via Generative Artificial Intelligence. **Geophysical Research Letters** (Under Revision) (Nature Index, IF: 4.6) [[Code]](https://github.com/JellyChen7/GenFrac) 
 
 [11] **Chen, G.**, Wang, Z., Liu, Q., Jiao, J. J., & Jin, Y. (2025), Expensive Multi-Objective Optimization Guided by Attention Enhanced Generative Models. **IEEE Transactions on Neural Networks and Learning Systems**. (IF: 8.9) [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11224780)
 
