@@ -124,6 +124,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 - IEEE Transactions on Artificial Intelligence;
 - Journal of Energy Storage;
 - Applied Soft Computing;
+- SPE Journal;
 - Fuel; 
 - Scientific Reports; 
 - Complex & Intelligent Systems;
