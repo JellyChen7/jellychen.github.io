@@ -111,7 +111,7 @@ My research aims to enhance scientific simulation, design, and discovery through
     [13] <strong>Chen, G.</strong>, You, F. (2025). Climate-Resilient Plant Factory Cultivation via Diffusion Policy for Intelligent Energy Management and Sustainable Crop Production. <em>Applied Energy</em>. (Under Review after Revision) (IF: 11.0)
   </div>
   <div class="pub-image">
-    <img src="https://github.com/JellyChen7/jellychen.github.io//raw/master/_pages/Figures/Figure13.jpg" alt="Paper 13 Figure">
+    <img src="https://github.com/JellyChen7/jellychen.github.io/raw/master/_pages/Figures/Figure13.jpg" alt="Paper 13 Figure">
   </div>
 </div>
 
