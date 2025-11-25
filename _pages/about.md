@@ -102,7 +102,7 @@ My research aims to enhance scientific simulation, design, and discovery through
     [14] <strong>Chen, G.</strong>, You, F. (2025). Energy-Efficient Greenhouse Climate Control with Diffusion Reinforcement Learning. <em>Applied Energy</em>. (Under Review) (IF: 11.0)
   </div>
   <div class="pub-image">
-    <img src="YOUR_IMAGE_PATH_HERE" alt="Paper 14 Figure">
+    <img src="Figures/Figure14.jpg" alt="Paper 14 Figure">
   </div>
 </div>
 
@@ -111,7 +111,7 @@ My research aims to enhance scientific simulation, design, and discovery through
     [13] <strong>Chen, G.</strong>, You, F. (2025). Climate-Resilient Plant Factory Cultivation via Diffusion Policy for Intelligent Energy Management and Sustainable Crop Production. <em>Applied Energy</em>. (Under Review after Revision) (IF: 11.0)
   </div>
   <div class="pub-image">
-    <img src="YOUR_IMAGE_PATH_HERE" alt="Paper 13 Figure">
+    <img src="Figures/Figure13.jpg" alt="Paper 13 Figure">
   </div>
 </div>
 
@@ -121,7 +121,7 @@ My research aims to enhance scientific simulation, design, and discovery through
     <a href="https://github.com/JellyChen7/GenFrac">[Code]</a>
   </div>
   <div class="pub-image">
-    <img src="YOUR_IMAGE_PATH_HERE" alt="Paper 12 Figure">
+    <img src="Figures/Figure12.jpg" alt="Paper 12 Figure">
   </div>
 </div>
 
@@ -131,7 +131,7 @@ My research aims to enhance scientific simulation, design, and discovery through
     <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11224780">[Paper]</a>
   </div>
   <div class="pub-image">
-    <img src="YOUR_IMAGE_PATH_HERE" alt="Paper 11 Figure">
+    <img src="Figures/Figure11.jpg" alt="Paper 11 Figure">
   </div>
 </div>
 
@@ -141,7 +141,7 @@ My research aims to enhance scientific simulation, design, and discovery through
     <a href="https://ager.yandypress.com/index.php/2207-9963/article/view/506/524">[Paper]</a>
   </div>
   <div class="pub-image">
-    <img src="YOUR_IMAGE_PATH_HERE" alt="Paper 10 Figure">
+    <img src="Figures/Figure10.jpg" alt="Paper 10 Figure">
   </div>
 </div>
 
@@ -151,7 +151,7 @@ My research aims to enhance scientific simulation, design, and discovery through
     <a href="https://www.cell.com/nexus/fulltext/S2950-1601(24)00042-1">[Paper]</a> | <a href="https://github.com/JellyChen7/ALEMO">[Code]</a>
   </div>
   <div class="pub-image">
-    <img src="YOUR_IMAGE_PATH_HERE" alt="Paper 9 Figure">
+    <img src="Figures/Figure9.jpg" alt="Paper 9 Figure">
   </div>
 </div>
 
@@ -161,7 +161,7 @@ My research aims to enhance scientific simulation, design, and discovery through
     <a href="https://arxiv.org/pdf/2304.09444">[Paper]</a>
   </div>
   <div class="pub-image">
-    <img src="YOUR_IMAGE_PATH_HERE" alt="Paper 8 Figure">
+    <img src="Figures/Figure8.jpg" alt="Paper 8 Figure">
   </div>
 </div>
 
@@ -171,7 +171,7 @@ My research aims to enhance scientific simulation, design, and discovery through
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S1364032123007189">[Paper]</a>
   </div>
   <div class="pub-image">
-    <img src="YOUR_IMAGE_PATH_HERE" alt="Paper 7 Figure">
+    <img src="Figures/Figure7.jpg" alt="Paper 7 Figure">
   </div>
 </div>
 
@@ -181,7 +181,7 @@ My research aims to enhance scientific simulation, design, and discovery through
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S0360544223006965">[Paper]</a>
   </div>
   <div class="pub-image">
-    <img src="YOUR_IMAGE_PATH_HERE" alt="Paper 6 Figure">
+    <img src="Figures/Figure6.jpg" alt="Paper 6 Figure">
   </div>
 </div>
 
@@ -191,7 +191,7 @@ My research aims to enhance scientific simulation, design, and discovery through
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S0016236122019664">[Paper]</a>
   </div>
   <div class="pub-image">
-    <img src="YOUR_IMAGE_PATH_HERE" alt="Paper 5 Figure">
+    <img src="Figures/Figure5.jpg" alt="Paper 5 Figure">
   </div>
 </div>
 
@@ -201,7 +201,7 @@ My research aims to enhance scientific simulation, design, and discovery through
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S1568494621011339">[Paper]</a>
   </div>
   <div class="pub-image">
-    <img src="YOUR_IMAGE_PATH_HERE" alt="Paper 4 Figure">
+    <img src="Figures/Figure4.jpg" alt="Paper 4 Figure">
   </div>
 </div>
 
@@ -211,7 +211,7 @@ My research aims to enhance scientific simulation, design, and discovery through
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025520306332">[Paper]</a>
   </div>
   <div class="pub-image">
-    <img src="YOUR_IMAGE_PATH_HERE" alt="Paper 3 Figure">
+    <img src="Figures/Figure3.jpg" alt="Paper 3 Figure">
   </div>
 </div>
 
@@ -221,7 +221,7 @@ My research aims to enhance scientific simulation, design, and discovery through
     <a href="https://onepetro.org/SJ/article-abstract/25/01/105/452952/Global-and-Local-Surrogate-Model-Assisted">[Paper]</a>
   </div>
   <div class="pub-image">
-    <img src="YOUR_IMAGE_PATH_HERE" alt="Paper 2 Figure">
+    <img src="Figures/Figure2.jpg" alt="Paper 2 Figure">
   </div>
 </div>
 
@@ -231,7 +231,7 @@ My research aims to enhance scientific simulation, design, and discovery through
     <a href="https://www.sciencedirect.com/science/article/pii/S092041051931054X">[Paper]</a>
   </div>
   <div class="pub-image">
-    <img src="YOUR_IMAGE_PATH_HERE" alt="Paper 1 Figure">
+    <img src="Figures/Figure1.jpg" alt="Paper 1 Figure">
   </div>
 </div>
 
