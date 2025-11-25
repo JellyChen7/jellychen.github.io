@@ -67,39 +67,6 @@ My research aims to enhance scientific simulation, design, and discovery through
 - Shandong Province “Internet +” Competition Silver Award (5%)
 
 ## 📚Publications
-[14] **Chen, G.**, You, F. (2025), Energy-Efficient Greenhouse Climate Control with Diffusion Reinforcement Learning. **Applied Energy**. (Under Review) (IF: 11.0)
-![Paper 14 Figure](path/to/paper14_fig.png)
-
-[13] **Chen, G.**, You, F. (2025), Climate-Resilient Plant Factory Cultivation via Diffusion Policy for Intelligent Energy Management and Sustainable Crop Production. **Applied Energy**. (Under Review after Revision) (IF: 11.0)
-![Paper 13 Figure](path/to/paper13_fig.png)
-
-[12] **Chen, G.**, Jiao, J. J., Wang, Z., Mao, R., Yang T., Nori, N. (2025). Physics-Supervised Autonomous Inverse Fracture Modelling via Generative Artificial Intelligence. **Geophysical Research Letters** (Major Revision) (Nature Index, IF: 4.6) [[Code]](https://github.com/JellyChen7/GenFrac) 
-![Paper 12 Figure](path/to/paper12_fig.png)
-
-[11] **Chen, G.**, Wang, Z., Liu, Q., Jiao, J. J., & Jin, Y. (2025), Expensive Multi-Objective Optimization Guided by Attention Enhanced Generative Models. **IEEE Transactions on Neural Networks and Learning Systems**. (IF: 8.9) [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11224780)
-![Paper 11 Figure](path/to/paper11_fig.png)
-
-[10] **Chen, G.**, Jiao, J. J., Wang, Z., & Dai, Q. (2025). Multi-fidelity machine learning with knowledge transfer enhances geothermal energy system design and optimization. **Advances in Geo-Energy Research**, 16(3), 244-259. (IF: 10.0)  [[Paper]](https://ager.yandypress.com/index.php/2207-9963/article/view/506/524)
-![Paper 10 Figure](path/to/paper10_fig.png)
-
-[9] **Chen, G.**, Jiao, J. J., Wang, Z., & Jin, Y. (2024), Machine Learning-Accelerated Multi-Objective Design of Fractured Geothermal Systems. **Nexus** (Cell Press) [[Paper]](https://www.cell.com/nexus/fulltext/S2950-1601(24)00042-1) [[Code]](https://github.com/JellyChen7/ALEMO) 
-
-[8] **Chen, G.**, Jiao, J. J., Xue, X., & Wang, Z., Rank-Based Learning and Local Model Based Evolutionary Algorithm for High-Dimensional Expensive Multi-Objective Problems. **IEEE Transactions on Systems, Man, and Cybernetics: Systems**, (Under Review after Minor Revision) (IF: 8.7) [[Paper]](https://arxiv.org/pdf/2304.09444)
-
-[7] **Chen, G.**, Jiao, J. J., Jiang, C., & Luo, X. (2024). Surrogate-assisted level-based learning evolutionary search for geothermal heat extraction optimization. **Renewable and Sustainable Energy Reviews**, 189, 113860. (IF: 16.3) [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1364032123007189)
-
-[6] **Chen, G.**, Luo, X., Jiao, J. J., & Jiang, C. (2023). Fracture network characterization with deep generative model based stochastic inversion. **Energy**, 273, 127302. (IF: 9.4) [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0360544223006965)
-
-[5] **Chen, G.**, Luo, X., Jiao, J. J., & Xue, X. (2022). Data-driven evolutionary algorithm for oil reservoir well-placement and control optimization. **Fuel**, 326, 125125. (IF: 7.5) [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0016236122019664)
-
-[4] **Chen, G.**, Zhang, K., Xue, X., Zhang, L., Yao, C., Wang, J., & Yao, J. (2022). A radial basis function surrogate model assisted evolutionary algorithm for high-dimensional expensive optimization problems. **Applied Soft Computing**, 116, 108353. (IF: 7.2) [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1568494621011339)
-
-[3] **Chen, G.**, Li, Y., Zhang, K., Xue, X., Wang, J., Luo, Q., & Yao, J. (2021). Efficient hierarchical surrogate-assisted differential evolution for high-dimensional expensive optimization. **Information Sciences**, 542, 228-246. (IF: 8.1) [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0020025520306332)
-
-[2] **Chen, G.**, Zhang, K., Zhang, L., Xue, X., Ji, D., Yao, C., ... & Yang, Y. (2020). Global and local surrogate-model-assisted differential evolution for waterflooding production optimization. **SPE Journal**, 25(01), 105-118.  (IF: 3.2) [[Paper]](https://onepetro.org/SJ/article-abstract/25/01/105/452952/Global-and-Local-Surrogate-Model-Assisted)
-
-[1] **Chen, G.**, Zhang, K., Xue, X., Zhang, L., Yao, J., Sun, H., ... & Yang, Y. (2020). Surrogate-assisted evolutionary algorithm with dimensionality reduction method for water flooding production optimization. **Journal of Petroleum Science and Engineering**, 185, 106633. (IF: 5.2) [[Paper]](https://www.sciencedirect.com/science/article/pii/S092041051931054X)
-
 
 <!-- CSS for the publication layout -->
 <style>
@@ -132,7 +99,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 
 <div class="pub-container">
   <div class="pub-text">
-    ,[object Object], <strong>Chen, G.</strong>, You, F. (2025). Energy-Efficient Greenhouse Climate Control with Diffusion Reinforcement Learning. <em>Applied Energy</em>. (Under Review) (IF: 11.0)
+    [14] <strong>Chen, G.</strong>, You, F. (2025). Energy-Efficient Greenhouse Climate Control with Diffusion Reinforcement Learning. <em>Applied Energy</em>. (Under Review) (IF: 11.0)
   </div>
   <div class="pub-image">
     <img src="YOUR_IMAGE_PATH_HERE" alt="Paper 14 Figure">
@@ -141,7 +108,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 
 <div class="pub-container">
   <div class="pub-text">
-    ,[object Object], <strong>Chen, G.</strong>, You, F. (2025). Climate-Resilient Plant Factory Cultivation via Diffusion Policy for Intelligent Energy Management and Sustainable Crop Production. <em>Applied Energy</em>. (Under Review after Revision) (IF: 11.0)
+    [13] <strong>Chen, G.</strong>, You, F. (2025). Climate-Resilient Plant Factory Cultivation via Diffusion Policy for Intelligent Energy Management and Sustainable Crop Production. <em>Applied Energy</em>. (Under Review after Revision) (IF: 11.0)
   </div>
   <div class="pub-image">
     <img src="YOUR_IMAGE_PATH_HERE" alt="Paper 13 Figure">
@@ -150,7 +117,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 
 <div class="pub-container">
   <div class="pub-text">
-    ,[object Object], <strong>Chen, G.</strong>, Jiao, J. J., Wang, Z., Mao, R., Yang T., Nori, N. (2025). Physics-Supervised Autonomous Inverse Fracture Modelling via Generative Artificial Intelligence. <em>Geophysical Research Letters</em> (Major Revision) (Nature Index, IF: 4.6) <br>
+    [12] <strong>Chen, G.</strong>, Jiao, J. J., Wang, Z., Mao, R., Yang T., Nori, N. (2025). Physics-Supervised Autonomous Inverse Fracture Modelling via Generative Artificial Intelligence. <em>Geophysical Research Letters</em> (Major Revision) (Nature Index, IF: 4.6) <br>
     <a href="https://github.com/JellyChen7/GenFrac">[Code]</a>
   </div>
   <div class="pub-image">
@@ -160,7 +127,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 
 <div class="pub-container">
   <div class="pub-text">
-    ,[object Object], <strong>Chen, G.</strong>, Wang, Z., Liu, Q., Jiao, J. J., & Jin, Y. (2025). Expensive Multi-Objective Optimization Guided by Attention Enhanced Generative Models. <em>IEEE Transactions on Neural Networks and Learning Systems</em>. (IF: 8.9) <br>
+    [11] <strong>Chen, G.</strong>, Wang, Z., Liu, Q., Jiao, J. J., & Jin, Y. (2025). Expensive Multi-Objective Optimization Guided by Attention Enhanced Generative Models. <em>IEEE Transactions on Neural Networks and Learning Systems</em>. (IF: 8.9) <br>
     <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11224780">[Paper]</a>
   </div>
   <div class="pub-image">
@@ -170,7 +137,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 
 <div class="pub-container">
   <div class="pub-text">
-    ,[object Object], <strong>Chen, G.</strong>, Jiao, J. J., Wang, Z., & Dai, Q. (2025). Multi-fidelity machine learning with knowledge transfer enhances geothermal energy system design and optimization. <em>Advances in Geo-Energy Research</em>, 16(3), 244-259. (IF: 10.0) <br>
+    [10] <strong>Chen, G.</strong>, Jiao, J. J., Wang, Z., & Dai, Q. (2025). Multi-fidelity machine learning with knowledge transfer enhances geothermal energy system design and optimization. <em>Advances in Geo-Energy Research</em>, 16(3), 244-259. (IF: 10.0) <br>
     <a href="https://ager.yandypress.com/index.php/2207-9963/article/view/506/524">[Paper]</a>
   </div>
   <div class="pub-image">
@@ -180,7 +147,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 
 <div class="pub-container">
   <div class="pub-text">
-    ,[object Object], <strong>Chen, G.</strong>, Jiao, J. J., Wang, Z., & Jin, Y. (2024). Machine Learning-Accelerated Multi-Objective Design of Fractured Geothermal Systems. <em>Nexus</em> (Cell Press) <br>
+    [9] <strong>Chen, G.</strong>, Jiao, J. J., Wang, Z., & Jin, Y. (2024). Machine Learning-Accelerated Multi-Objective Design of Fractured Geothermal Systems. <em>Nexus</em> (Cell Press) <br>
     <a href="https://www.cell.com/nexus/fulltext/S2950-1601(24)00042-1">[Paper]</a> | <a href="https://github.com/JellyChen7/ALEMO">[Code]</a>
   </div>
   <div class="pub-image">
@@ -190,7 +157,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 
 <div class="pub-container">
   <div class="pub-text">
-    ,[object Object], <strong>Chen, G.</strong>, Jiao, J. J., Xue, X., & Wang, Z. Rank-Based Learning and Local Model Based Evolutionary Algorithm for High-Dimensional Expensive Multi-Objective Problems. <em>IEEE Transactions on Systems, Man, and Cybernetics: Systems</em>, (Under Review after Minor Revision) (IF: 8.7) <br>
+    [8] <strong>Chen, G.</strong>, Jiao, J. J., Xue, X., & Wang, Z. Rank-Based Learning and Local Model Based Evolutionary Algorithm for High-Dimensional Expensive Multi-Objective Problems. <em>IEEE Transactions on Systems, Man, and Cybernetics: Systems</em>, (Under Review after Minor Revision) (IF: 8.7) <br>
     <a href="https://arxiv.org/pdf/2304.09444">[Paper]</a>
   </div>
   <div class="pub-image">
@@ -200,7 +167,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 
 <div class="pub-container">
   <div class="pub-text">
-    ,[object Object], <strong>Chen, G.</strong>, Jiao, J. J., Jiang, C., & Luo, X. (2024). Surrogate-assisted level-based learning evolutionary search for geothermal heat extraction optimization. <em>Renewable and Sustainable Energy Reviews</em>, 189, 113860. (IF: 16.3) <br>
+    [7] <strong>Chen, G.</strong>, Jiao, J. J., Jiang, C., & Luo, X. (2024). Surrogate-assisted level-based learning evolutionary search for geothermal heat extraction optimization. <em>Renewable and Sustainable Energy Reviews</em>, 189, 113860. (IF: 16.3) <br>
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S1364032123007189">[Paper]</a>
   </div>
   <div class="pub-image">
@@ -210,7 +177,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 
 <div class="pub-container">
   <div class="pub-text">
-    ,[object Object], <strong>Chen, G.</strong>, Luo, X., Jiao, J. J., & Jiang, C. (2023). Fracture network characterization with deep generative model based stochastic inversion. <em>Energy</em>, 273, 127302. (IF: 9.4) <br>
+    [6] <strong>Chen, G.</strong>, Luo, X., Jiao, J. J., & Jiang, C. (2023). Fracture network characterization with deep generative model based stochastic inversion. <em>Energy</em>, 273, 127302. (IF: 9.4) <br>
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S0360544223006965">[Paper]</a>
   </div>
   <div class="pub-image">
@@ -220,7 +187,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 
 <div class="pub-container">
   <div class="pub-text">
-    ,[object Object], <strong>Chen, G.</strong>, Luo, X., Jiao, J. J., & Xue, X. (2022). Data-driven evolutionary algorithm for oil reservoir well-placement and control optimization. <em>Fuel</em>, 326, 125125. (IF: 7.5) <br>
+    [5] <strong>Chen, G.</strong>, Luo, X., Jiao, J. J., & Xue, X. (2022). Data-driven evolutionary algorithm for oil reservoir well-placement and control optimization. <em>Fuel</em>, 326, 125125. (IF: 7.5) <br>
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S0016236122019664">[Paper]</a>
   </div>
   <div class="pub-image">
@@ -230,7 +197,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 
 <div class="pub-container">
   <div class="pub-text">
-    ,[object Object], <strong>Chen, G.</strong>, Zhang, K., Xue, X., Zhang, L., Yao, C., Wang, J., & Yao, J. (2022). A radial basis function surrogate model assisted evolutionary algorithm for high-dimensional expensive optimization problems. <em>Applied Soft Computing</em>, 116, 108353. (IF: 7.2) <br>
+    [4] <strong>Chen, G.</strong>, Zhang, K., Xue, X., Zhang, L., Yao, C., Wang, J., & Yao, J. (2022). A radial basis function surrogate model assisted evolutionary algorithm for high-dimensional expensive optimization problems. <em>Applied Soft Computing</em>, 116, 108353. (IF: 7.2) <br>
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S1568494621011339">[Paper]</a>
   </div>
   <div class="pub-image">
@@ -240,7 +207,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 
 <div class="pub-container">
   <div class="pub-text">
-    ,[object Object], <strong>Chen, G.</strong>, Li, Y., Zhang, K., Xue, X., Wang, J., Luo, Q., & Yao, J. (2021). Efficient hierarchical surrogate-assisted differential evolution for high-dimensional expensive optimization. <em>Information Sciences</em>, 542, 228-246. (IF: 8.1) <br>
+    [3] <strong>Chen, G.</strong>, Li, Y., Zhang, K., Xue, X., Wang, J., Luo, Q., & Yao, J. (2021). Efficient hierarchical surrogate-assisted differential evolution for high-dimensional expensive optimization. <em>Information Sciences</em>, 542, 228-246. (IF: 8.1) <br>
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025520306332">[Paper]</a>
   </div>
   <div class="pub-image">
@@ -250,7 +217,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 
 <div class="pub-container">
   <div class="pub-text">
-    ,[object Object], <strong>Chen, G.</strong>, Zhang, K., Zhang, L., Xue, X., Ji, D., Yao, C., ... & Yang, Y. (2020). Global and local surrogate-model-assisted differential evolution for waterflooding production optimization. <em>SPE Journal</em>, 25(01), 105-118. (IF: 3.2) <br>
+    [2] <strong>Chen, G.</strong>, Zhang, K., Zhang, L., Xue, X., Ji, D., Yao, C., ... & Yang, Y. (2020). Global and local surrogate-model-assisted differential evolution for waterflooding production optimization. <em>SPE Journal</em>, 25(01), 105-118. (IF: 3.2) <br>
     <a href="https://onepetro.org/SJ/article-abstract/25/01/105/452952/Global-and-Local-Surrogate-Model-Assisted">[Paper]</a>
   </div>
   <div class="pub-image">
@@ -260,7 +227,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 
 <div class="pub-container">
   <div class="pub-text">
-    ,[object Object], <strong>Chen, G.</strong>, Zhang, K., Xue, X., Zhang, L., Yao, J., Sun, H., ... & Yang, Y. (2020). Surrogate-assisted evolutionary algorithm with dimensionality reduction method for water flooding production optimization. <em>Journal of Petroleum Science and Engineering</em>, 185, 106633. (IF: 5.2) <br>
+    [1] <strong>Chen, G.</strong>, Zhang, K., Xue, X., Zhang, L., Yao, J., Sun, H., ... & Yang, Y. (2020). Surrogate-assisted evolutionary algorithm with dimensionality reduction method for water flooding production optimization. <em>Journal of Petroleum Science and Engineering</em>, 185, 106633. (IF: 5.2) <br>
     <a href="https://www.sciencedirect.com/science/article/pii/S092041051931054X">[Paper]</a>
   </div>
   <div class="pub-image">
