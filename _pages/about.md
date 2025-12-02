@@ -271,6 +271,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 - Fuel; 
 - Scientific Reports; 
 - Complex & Intelligent Systems;
+- IEEE Congress on Evolutionary Computation;
 - Structural and Multidisciplinary Optimization; 
 - Evolutionary Intelligence; 
 - SN Applied Sciences; 
