@@ -256,15 +256,16 @@ My research aims to enhance scientific simulation, design, and discovery through
 
 ## 🔍Reviewer Service
 ------
-- Applied Energy; 
-- IEEE Transactions on Systems, Man, and Cybernetics: Systems;
-- Swarm and Evolutionary Computation; 
+- Applied Energy;
 - Geophysical Research Letters;
+- IEEE Transactions on Evolutionary Computation;
+- IEEE Transactions on Systems, Man, and Cybernetics: Systems;
+- IEEE Transactions on Artificial Intelligence;
+- Swarm and Evolutionary Computation; 
 - Water Resources Research;
 - Information Sciences; 
 - Journal of Hydrology; 
 - Advances in Geo-Energy Research;
-- IEEE Transactions on Artificial Intelligence;
 - Journal of Energy Storage;
 - Applied Soft Computing;
 - SPE Journal;
