@@ -99,7 +99,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 
 <div class="pub-container">
   <div class="pub-text">
-    [15] <strong>Chen, G.</strong>, You, F. (2025). Spatiotemporal Fluid Flow Prediction in Subsurface Fractured Media using Diffusion Models. (To be Submitted) 
+    [15] <strong>Chen, G.</strong>, Nakata, N. et al. (2025). Spatiotemporal Fluid Flow Prediction in Subsurface Fractured Media using Diffusion Models. (To be Submitted) 
   </div>
   <div class="pub-image">
     <img src="https://github.com/JellyChen7/jellychen.github.io/raw/master/_pages/Figures/Figure15.jpg" alt="Paper 15 Figure">
