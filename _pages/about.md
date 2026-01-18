@@ -99,7 +99,16 @@ My research aims to enhance scientific simulation, design, and discovery through
 
 <div class="pub-container">
   <div class="pub-text">
-    [14] <strong>Chen, G.</strong>, You, F. (2025). Energy-Efficient Greenhouse Climate Control with Diffusion Reinforcement Learning. <em>Applied Energy</em>. (Major Revision) (IF: 11.0)
+    [15] <strong>Chen, G.</strong>, You, F. (2025). Spatiotemporal Fluid Flow Prediction in Subsurface Fractured Media using Diffusion Models. (To be Submitted) 
+  </div>
+  <div class="pub-image">
+    <img src="https://github.com/JellyChen7/jellychen.github.io/raw/master/_pages/Figures/Figure15.jpg" alt="Paper 15 Figure">
+  </div>
+</div>
+
+<div class="pub-container">
+  <div class="pub-text">
+    [14] <strong>Chen, G.</strong>, You, F. (2025). Energy-Efficient Greenhouse Climate Control with Diffusion Reinforcement Learning. <em>Applied Energy</em>. (Accepted) (IF: 11.0)
   </div>
   <div class="pub-image">
     <img src="https://github.com/JellyChen7/jellychen.github.io/raw/master/_pages/Figures/Figure14.jpg" alt="Paper 14 Figure">
@@ -108,7 +117,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 
 <div class="pub-container">
   <div class="pub-text">
-    [13] <strong>Chen, G.</strong>, You, F. (2025). Climate-Resilient Plant Factory Cultivation via Diffusion Policy for Intelligent Energy Management and Sustainable Crop Production. <em>Applied Energy</em>. (Under Review after Revision) (IF: 11.0)
+    [13] <strong>Chen, G.</strong>, You, F. (2025). Climate-Resilient Plant Factory Cultivation via Diffusion Policy for Intelligent Energy Management and Sustainable Crop Production. <em>Applied Energy</em>. (Minor Revision) (IF: 11.0)
   </div>
   <div class="pub-image">
     <img src="https://github.com/JellyChen7/jellychen.github.io/raw/master/_pages/Figures/Figure13.jpg" alt="Paper 13 Figure">
