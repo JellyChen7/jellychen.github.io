@@ -166,7 +166,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 
 <div class="pub-container">
   <div class="pub-text">
-    [8] <strong>Chen, G.</strong>, Jiao, J. J., Xue, X., & Wang, Z. Rank-Based Learning and Local Model Based Evolutionary Algorithm for High-Dimensional Expensive Multi-Objective Problems. <em>IEEE Transactions on Systems, Man, and Cybernetics: Systems</em>, (Under Review after Minor Revision) (IF: 8.7) <br>
+    [8] <strong>Chen, G.</strong>, Jiao, J. J., Xue, X., & Wang, Z. Rank-Based Learning and Local Model Based Evolutionary Algorithm for High-Dimensional Expensive Multi-Objective Problems. <em>IEEE Transactions on Systems, Man, and Cybernetics: Systems</em>, (Accepted) (IF: 8.7) <br>
     <a href="https://arxiv.org/pdf/2304.09444">[Paper]</a>
   </div>
   <div class="pub-image">
