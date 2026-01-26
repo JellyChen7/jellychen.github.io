@@ -266,6 +266,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 ## 🔍Reviewer Service
 ------
 - Applied Energy;
+- Engineering
 - Geophysical Research Letters;
 - IEEE Transactions on Evolutionary Computation;
 - IEEE Transactions on Systems, Man, and Cybernetics: Systems;
