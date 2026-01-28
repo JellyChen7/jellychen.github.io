@@ -108,7 +108,8 @@ My research aims to enhance scientific simulation, design, and discovery through
 
 <div class="pub-container">
   <div class="pub-text">
-    [14] <strong>Chen, G.</strong>, You, F. (2025). Energy-Efficient Greenhouse Climate Control with Diffusion Reinforcement Learning. <em>Applied Energy</em>. (Accepted) (IF: 11.0)
+    [14] <strong>Chen, G.</strong>, You, F. (2025). Energy-Efficient Greenhouse Climate Control with Diffusion Reinforcement Learning. <em>Applied Energy</em>. (IF: 11.0) <br>
+        <a href="https://www.sciencedirect.com/science/article/pii/S0306261926000899?ref=pdf_download&fr=RR-2&rr=9c4d4824fe4b27ee">[Paper]</a>
   </div>
   <div class="pub-image">
     <img src="https://github.com/JellyChen7/jellychen.github.io/raw/master/_pages/Figures/Figure14.jpg" alt="Paper 14 Figure">
