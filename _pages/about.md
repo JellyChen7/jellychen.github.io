@@ -281,7 +281,8 @@ My research aims to enhance scientific simulation, design, and discovery through
 - Journal of Energy Storage;
 - Applied Soft Computing;
 - SPE Journal;
-- Fuel; 
+- Fuel;
+- Computational Geosciences;
 - Scientific Reports; 
 - Complex & Intelligent Systems;
 - IEEE Congress on Evolutionary Computation;
