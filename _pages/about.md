@@ -105,7 +105,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 
 <div class="pub-container">
   <div class="pub-text">
-    [17] Song, Y, Chen, J., Peng, H., Yu, C., <strong>Chen, G.*</strong>, Liu, Y., Song, K., Wang, D.*, (2026). A Data-Driven Machine Learning Framework for Multi-Objective Production Optimization of Graded-Viscosity Polymer Flooding, SPE Journal, (Under Review Afoter Revision). 
+    [17] Song, Y, Chen, J., Peng, H., Yu, C., <strong>Chen, G.*</strong>, Liu, Y., Song, K., Wang, D.*, (2026). A Data-Driven Machine Learning Framework for Multi-Objective Production Optimization of Graded-Viscosity Polymer Flooding, SPE Journal, (Under Review After Revision). 
   </div>
   <div class="pub-image">
     <img src="https://github.com/JellyChen7/jellychen.github.io/raw/master/_pages/Figures/Figure17.png" alt="Paper 17 Figure">
