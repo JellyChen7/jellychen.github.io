@@ -96,6 +96,33 @@ My research aims to enhance scientific simulation, design, and discovery through
 
 <div class="pub-container">
   <div class="pub-text">
+    [18] Li, Z., Ma, Z., Zhao, H., <strong>Chen, G.</strong>, (2026). Synergistic Optimization and Gas Channeling Identification of CO2 Flooding and Sequestration via an Attention-Enhanced Two-Stage Evolutionary Algorithm. Chemical Engineering Journal, (Under Review) 
+  </div>
+  <div class="pub-image">
+    <img src="https://github.com/JellyChen7/jellychen.github.io/raw/master/_pages/Figures/Figure15.jpg" alt="Paper 15 Figure">
+  </div>
+</div>
+
+<div class="pub-container">
+  <div class="pub-text">
+    [17] Song, Y, Chen, J., Peng, H., Yu, C., <strong>Chen, G.</strong>, Liu, Y., Song, K., Wang, D., (2026). A Data-Driven Machine Learning Framework for Multi-Objective Production Optimization of Graded-Viscosity Polymer Flooding, SPE Journal, (Under Review Afoter Revision). 
+  </div>
+  <div class="pub-image">
+    <img src="https://github.com/JellyChen7/jellychen.github.io/raw/master/_pages/Figures/Figure15.jpg" alt="Paper 15 Figure">
+  </div>
+</div>
+
+<div class="pub-container">
+  <div class="pub-text">
+    [16] Ma, Y., Li, Z*, Liu, W., Zhao, H., <strong>Chen, G.*</strong>, (2025). Generalized regression neural network-assisted synergistic optimization of oil recovery, heat extraction, and carbon sequestration in deep reservoirs. Physics of Fluids, 37 (5).
+  </div>
+  <div class="pub-image">
+    <img src="https://github.com/JellyChen7/jellychen.github.io/raw/master/_pages/Figures/Figure15.jpg" alt="Paper 15 Figure">
+  </div>
+</div>
+
+<div class="pub-container">
+  <div class="pub-text">
     [15] <strong>Chen, G.</strong>, Nakata, N., Wang Z., Bi Z., Nakata R. (2025). Spatiotemporal Fluid Flow Prediction in Subsurface Fractured Media using Diffusion Models. (Under Review) 
     <a href="https://github.com/JellyChen7/FracCGM">[Code]</a>
   </div>
