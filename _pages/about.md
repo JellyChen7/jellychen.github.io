@@ -123,7 +123,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 
 <div class="pub-container">
   <div class="pub-text">
-    [15] <strong>Chen, G.</strong>, Nakata, N., Wang Z., Bi Z., Nakata R. (2025). Spatiotemporal Fluid Flow Prediction in Subsurface Fractured Media using Diffusion Models. (Under Review) 
+    [15] <strong>Chen, G.</strong>, Nakata, N., Wang Z., Bi Z., Nakata R. (2025). Spatiotemporal Fluid Flow Prediction in Subsurface Fractured Media using Diffusion Models. Journal of Geophysical Research: Solid Earth (Under Review) (Nature Index)
     <a href="https://github.com/JellyChen7/FracCGM">[Code]</a>
   </div>
   <div class="pub-image">
