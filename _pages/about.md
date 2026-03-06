@@ -123,7 +123,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 
 <div class="pub-container">
   <div class="pub-text">
-    [15] <strong>Chen, G.</strong>, Nakata, N., Wang Z., Bi Z., Nakata R. (2025). Spatiotemporal Fluid Flow Prediction in Subsurface Fractured Media using Diffusion Models. Journal of Geophysical Research: Solid Earth (Under Review) (Nature Index)
+    [15] <strong>Chen, G.</strong>, Nakata, N., Wang Z., Bi Z., Nakata R. (2025). Spatiotemporal Fluid Flow Prediction in Subsurface Fractured Media using Diffusion Models. Journal of Geophysical Research: Solid Earth (Under Review) (Nature Index) <br>
     <a href="https://github.com/JellyChen7/FracCGM">[Code]</a>
   </div>
   <div class="pub-image">
@@ -192,8 +192,8 @@ My research aims to enhance scientific simulation, design, and discovery through
 
 <div class="pub-container">
   <div class="pub-text">
-    [8] <strong>Chen, G.</strong>, Jiao, J. J., Xue, X., & Wang, Z. Rank-Based Learning and Local Model Based Evolutionary Algorithm for High-Dimensional Expensive Multi-Objective Problems. <em>IEEE Transactions on Systems, Man, and Cybernetics: Systems</em>, (Accepted) (IF: 8.7) <br>
-    <a href="https://ieeexplore.ieee.org/document/11372233">[Paper]</a>
+    [8] <strong>Chen, G.</strong>, Jiao, J. J., Xue, X., & Wang, Z. Rank-Based Learning and Local Model Based Evolutionary Algorithm for High-Dimensional Expensive Multi-Objective Problems. <em>IEEE Transactions on Systems, Man, and Cybernetics: Systems</em>, (IF: 8.7) <br>
+    <a href="https://ieeexplore.ieee.org/document/11372233">[Paper]</a> | <a href="https://github.com/JellyChen7/CLMEA">[Code]</a>
   </div>
   <div class="pub-image">
     <img src="https://github.com/JellyChen7/jellychen.github.io/raw/master/_pages/Figures/Figure8.jpg" alt="Paper 8 Figure">
