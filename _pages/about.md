@@ -48,7 +48,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 - Academic First-Class Scholarship (twice) (3%)
 - Excellent Student Scholarship (10%)
  
-### Titles of Honor
+### Academic Honours
 - HKIE Ringo Yu Prize for Best PhD Thesis (1%)
 - HKU Foundation Excellent PhD Award (3%)
 - Outstanding Master's Thesis of Shandong Province Graduate Students (1%)
