@@ -37,6 +37,11 @@ My research aims to enhance scientific simulation, design, and discovery through
 
 ## 🏅Honours & Awards
 
+### Academic Honours
+- HKIE Ringo Yu Prize for Best PhD Thesis (1%)
+- HKU Foundation Excellent PhD Award (3%)
+- Outstanding Master's Thesis of Shandong Province Graduate Students (1%)
+
 ### Scholarships
 
 - National Scholarship from China Ministry of Education (1%)
@@ -48,11 +53,6 @@ My research aims to enhance scientific simulation, design, and discovery through
 - Academic First-Class Scholarship (twice) (3%)
 - Excellent Student Scholarship (10%)
  
-### Academic Honours
-- HKIE Ringo Yu Prize for Best PhD Thesis (1%)
-- HKU Foundation Excellent PhD Award (3%)
-- Outstanding Master's Thesis of Shandong Province Graduate Students (1%)
-
 ### Competitions
 
 - The Second Prize of The 15th China Post-graduate Mathematical Contest in Modeling (10%);
