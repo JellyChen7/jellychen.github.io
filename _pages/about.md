@@ -152,7 +152,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 
 <div class="pub-container">
   <div class="pub-text">
-    [12] <strong>Chen, G.</strong>, Jiao, J. J., Wang, Z., Mao, R., Yang T., Nori, N. (2025). Physics-Supervised Autonomous Inverse Fracture Modelling via Generative Artificial Intelligence. <em>Geophysical Research Letters</em> (Major Revision) (Nature Index, IF: 4.6) <br>
+    [12] <strong>Chen, G.</strong>, Jiao, J. J., Wang, Z., Mao, R., Yang T., Nori, N. (2025). Physics-Supervised Autonomous Inverse Fracture Modelling via Generative Artificial Intelligence. <em>Geophysical Research Letters</em> (Under Review after Revision) (Nature Index, IF: 4.6) <br>
     <a href="https://github.com/JellyChen7/GenFrac">[Code]</a>
   </div>
   <div class="pub-image">
