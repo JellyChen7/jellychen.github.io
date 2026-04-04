@@ -304,6 +304,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 - Advances in Geo-Energy Research;
 - Journal of Energy Storage;
 - Applied Soft Computing;
+- Petroleum Science
 - SPE Journal;
 - Fuel;
 - Computational Geosciences;
