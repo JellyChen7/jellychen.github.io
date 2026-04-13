@@ -295,6 +295,7 @@ My research aims to enhance scientific simulation, design, and discovery through
 - Engineering
 - Geophysical Research Letters;
 - IEEE Transactions on Evolutionary Computation;
+- IEEE Transactions on Cybernetics;
 - IEEE Transactions on Systems, Man, and Cybernetics: Systems;
 - IEEE Transactions on Artificial Intelligence;
 - Swarm and Evolutionary Computation; 
@@ -308,7 +309,8 @@ My research aims to enhance scientific simulation, design, and discovery through
 - SPE Journal;
 - Fuel;
 - Computational Geosciences;
-- Scientific Reports; 
+- Scientific Reports;
+- IEEE Transactions on Emerging Topics in Computational Intelligence;
 - Complex & Intelligent Systems;
 - IEEE Congress on Evolutionary Computation;
 - Structural and Multidisciplinary Optimization; 
