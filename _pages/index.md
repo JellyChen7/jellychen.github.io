@@ -268,7 +268,7 @@ redirect_from:
     <div class="gc-stat-l">Publications</div>
   </div>
   <div class="gc-stat">
-    <div class="gc-stat-n">9+</div>
+    <div class="gc-stat-n">9</div>
     <div class="gc-stat-l">IF 10+ journals</div>
   </div>
   <div class="gc-stat">
