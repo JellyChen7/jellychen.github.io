@@ -5,32 +5,297 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
 
-{% include base_path %}
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+.gc-root { font-family: 'DM Sans', sans-serif; font-weight: 400; color: #1a1a1a; line-height: 1.7; max-width: 720px; }
+.gc-section-label {
+  font-size: 0.68rem; font-weight: 500; text-transform: uppercase;
+  letter-spacing: .1em; color: #aaa; margin-bottom: 18px;
+  padding-bottom: 10px; border-bottom: 1px solid #e8e4dc; margin-top: 40px;
+}
+.gc-pub {
+  display: grid; grid-template-columns: 28px 1fr auto;
+  gap: 10px; align-items: start; padding: 16px 0;
+  border-bottom: 1px solid #e8e4dc;
+}
+.gc-pub:first-of-type { border-top: 1px solid #e8e4dc; }
+.gc-pub-num {
+  font-family: 'DM Serif Display', serif;
+  font-size: 0.85rem; color: #ccc; padding-top: 2px; text-align: right;
+}
+.gc-pub-title {
+  font-size: 0.92rem; font-weight: 500; color: #0f0f0f;
+  line-height: 1.4; margin-bottom: 4px;
+}
+.gc-pub-title a { color: inherit; text-decoration: none; border-bottom: 1px solid transparent; transition: border-color .15s; }
+.gc-pub-title a:hover { border-color: #0f0f0f; }
+.gc-pub-authors { font-size: 0.8rem; color: #888; margin-bottom: 3px; }
+.gc-pub-authors strong { color: #444; font-weight: 500; }
+.gc-pub-venue { font-size: 0.8rem; color: #666; margin-bottom: 7px; }
+.gc-pub-badges { display: flex; flex-wrap: wrap; gap: 5px; }
+.gc-badge {
+  font-size: 0.65rem; text-transform: uppercase; letter-spacing: .05em;
+  font-weight: 500; padding: 2px 7px; border-radius: 2px;
+}
+.gc-badge-ni    { background: #f0eef9; color: #3d2f8f; border: 1px solid #cec6f0; }
+.gc-badge-if    { background: #eaf4ec; color: #1a5c2e; border: 1px solid #b8dfc0; }
+.gc-badge-cell  { background: #fdf0e8; color: #8c3a10; border: 1px solid #f0c8a8; }
+.gc-badge-code  { background: #f1f1ee; color: #444;    border: 1px solid #d0d0c8; }
+.gc-badge-rev   { background: #fdf6e8; color: #7a5200; border: 1px solid #e8d49a; }
+.gc-pub-year { font-size: 0.78rem; color: #bbb; font-weight: 300; white-space: nowrap; padding-top: 3px; }
+</style>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<div class="gc-root">
 
+<div class="gc-section-label">Journal articles</div>
 
+<div class="gc-pub">
+  <span class="gc-pub-num">18</span>
+  <div>
+    <p class="gc-pub-title">Synergistic optimization and gas channeling identification of CO₂ flooding and sequestration via an attention-enhanced two-stage evolutionary algorithm</p>
+    <p class="gc-pub-authors">Li, Z., Ma, Z., Zhao, H., <strong>Chen, G.*</strong></p>
+    <p class="gc-pub-venue">Chemical Engineering Journal · Under Review · 2026</p>
+    <div class="gc-pub-badges"><span class="gc-badge gc-badge-rev">Under review</span></div>
+  </div>
+  <span class="gc-pub-year">2026</span>
+</div>
 
+<div class="gc-pub">
+  <span class="gc-pub-num">17</span>
+  <div>
+    <p class="gc-pub-title">A data-driven machine learning framework for multi-objective production optimization of graded-viscosity polymer flooding</p>
+    <p class="gc-pub-authors">Song, Y., Chen, J., Peng, H., Yu, C., <strong>Chen, G.*</strong>, Liu, Y., Song, K., Wang, D.*</p>
+    <p class="gc-pub-venue">SPE Journal · Under Review after 2nd Revision · 2026</p>
+    <div class="gc-pub-badges"><span class="gc-badge gc-badge-rev">Under review</span></div>
+  </div>
+  <span class="gc-pub-year">2026</span>
+</div>
+
+<div class="gc-pub">
+  <span class="gc-pub-num">16</span>
+  <div>
+    <p class="gc-pub-title">Generalized regression neural network-assisted synergistic optimization of oil recovery, heat extraction, and carbon sequestration in deep reservoirs</p>
+    <p class="gc-pub-authors">Ma, Y., Li, Z.*, Liu, W., Zhao, H., <strong>Chen, G.*</strong></p>
+    <p class="gc-pub-venue">Physics of Fluids · 37(5) · 2025</p>
+    <div class="gc-pub-badges"><span class="gc-badge gc-badge-if">IF 4.1</span></div>
+  </div>
+  <span class="gc-pub-year">2025</span>
+</div>
+
+<div class="gc-pub">
+  <span class="gc-pub-num">15</span>
+  <div>
+    <p class="gc-pub-title">
+      <a href="https://github.com/JellyChen7/FracCGM">Spatiotemporal fluid flow prediction in subsurface fractured media using diffusion models</a>
+    </p>
+    <p class="gc-pub-authors"><strong>Chen, G.</strong>, Nakata, N., Wang, Z., Bi, Z., Nakata, R.</p>
+    <p class="gc-pub-venue">Journal of Geophysical Research: Solid Earth · Under Review · 2025</p>
+    <div class="gc-pub-badges">
+      <span class="gc-badge gc-badge-ni">Nature Index</span>
+      <span class="gc-badge gc-badge-rev">Under review</span>
+      <span class="gc-badge gc-badge-code">Code</span>
+    </div>
+  </div>
+  <span class="gc-pub-year">2025</span>
+</div>
+
+<div class="gc-pub">
+  <span class="gc-pub-num">14</span>
+  <div>
+    <p class="gc-pub-title">
+      <a href="https://www.sciencedirect.com/science/article/pii/S0306261926000899">Energy-efficient greenhouse climate control with diffusion reinforcement learning</a>
+    </p>
+    <p class="gc-pub-authors"><strong>Chen, G.</strong>, You, F.</p>
+    <p class="gc-pub-venue">Applied Energy · IF 11.0 · 2025</p>
+    <div class="gc-pub-badges"><span class="gc-badge gc-badge-if">IF 11.0</span></div>
+  </div>
+  <span class="gc-pub-year">2025</span>
+</div>
+
+<div class="gc-pub">
+  <span class="gc-pub-num">13</span>
+  <div>
+    <p class="gc-pub-title">Climate-resilient plant factory cultivation via diffusion policy for intelligent energy management and sustainable crop production</p>
+    <p class="gc-pub-authors"><strong>Chen, G.</strong>, You, F.</p>
+    <p class="gc-pub-venue">Applied Energy · Under Review after 2nd Revision · IF 11.0</p>
+    <div class="gc-pub-badges">
+      <span class="gc-badge gc-badge-if">IF 11.0</span>
+      <span class="gc-badge gc-badge-rev">Under review</span>
+    </div>
+  </div>
+  <span class="gc-pub-year">2025</span>
+</div>
+
+<div class="gc-pub">
+  <span class="gc-pub-num">12</span>
+  <div>
+    <p class="gc-pub-title">
+      <a href="https://github.com/JellyChen7/GenFrac">Physics-supervised autonomous inverse fracture modelling via generative artificial intelligence</a>
+    </p>
+    <p class="gc-pub-authors"><strong>Chen, G.</strong>, Jiao, J. J., Wang, Z., Mao, R., Yang, T., Nakata, N.</p>
+    <p class="gc-pub-venue">Geophysical Research Letters · Under Review after Revision · IF 4.6</p>
+    <div class="gc-pub-badges">
+      <span class="gc-badge gc-badge-ni">Nature Index</span>
+      <span class="gc-badge gc-badge-rev">Under review</span>
+      <span class="gc-badge gc-badge-code">Code</span>
+    </div>
+  </div>
+  <span class="gc-pub-year">2025</span>
+</div>
+
+<div class="gc-pub">
+  <span class="gc-pub-num">11</span>
+  <div>
+    <p class="gc-pub-title">
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11224780">Expensive multi-objective optimization guided by attention-enhanced generative models</a>
+    </p>
+    <p class="gc-pub-authors"><strong>Chen, G.</strong>, Wang, Z., Liu, Q., Jiao, J. J., Jin, Y.</p>
+    <p class="gc-pub-venue">IEEE Transactions on Neural Networks and Learning Systems · IF 8.9</p>
+    <div class="gc-pub-badges">
+      <span class="gc-badge gc-badge-if">IF 8.9</span>
+      <span class="gc-badge gc-badge-code">Code</span>
+    </div>
+  </div>
+  <span class="gc-pub-year">2025</span>
+</div>
+
+<div class="gc-pub">
+  <span class="gc-pub-num">10</span>
+  <div>
+    <p class="gc-pub-title">
+      <a href="https://ager.yandypress.com/index.php/2207-9963/article/view/506/524">Multi-fidelity machine learning with knowledge transfer enhances geothermal energy system design and optimisation</a>
+    </p>
+    <p class="gc-pub-authors"><strong>Chen, G.</strong>, Jiao, J. J., Wang, Z., Dai, Q.</p>
+    <p class="gc-pub-venue">Advances in Geo-Energy Research · 16(3), 244–259 · IF 10.0</p>
+    <div class="gc-pub-badges"><span class="gc-badge gc-badge-if">IF 10.0</span></div>
+  </div>
+  <span class="gc-pub-year">2025</span>
+</div>
+
+<div class="gc-pub">
+  <span class="gc-pub-num">9</span>
+  <div>
+    <p class="gc-pub-title">
+      <a href="https://www.cell.com/nexus/fulltext/S2950-1601(24)00042-1">Machine learning-accelerated multi-objective design of fractured geothermal systems</a>
+    </p>
+    <p class="gc-pub-authors"><strong>Chen, G.</strong>, Jiao, J. J., Wang, Z., Jin, Y.</p>
+    <p class="gc-pub-venue">Nexus · Cell Press · 2024</p>
+    <div class="gc-pub-badges">
+      <span class="gc-badge gc-badge-cell">Cell Press</span>
+      <span class="gc-badge gc-badge-code">Code</span>
+    </div>
+  </div>
+  <span class="gc-pub-year">2024</span>
+</div>
+
+<div class="gc-pub">
+  <span class="gc-pub-num">8</span>
+  <div>
+    <p class="gc-pub-title">
+      <a href="https://ieeexplore.ieee.org/document/11372233">Rank-based learning and local model-based evolutionary algorithm for high-dimensional expensive multi-objective problems</a>
+    </p>
+    <p class="gc-pub-authors"><strong>Chen, G.</strong>, Jiao, J. J., Xue, X., Wang, Z.</p>
+    <p class="gc-pub-venue">IEEE Transactions on Systems, Man, and Cybernetics: Systems · IF 8.7</p>
+    <div class="gc-pub-badges">
+      <span class="gc-badge gc-badge-if">IF 8.7</span>
+      <span class="gc-badge gc-badge-code">Code</span>
+    </div>
+  </div>
+  <span class="gc-pub-year">2025</span>
+</div>
+
+<div class="gc-pub">
+  <span class="gc-pub-num">7</span>
+  <div>
+    <p class="gc-pub-title">
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S1364032123007189">Surrogate-assisted level-based learning evolutionary search for geothermal heat extraction optimisation</a>
+    </p>
+    <p class="gc-pub-authors"><strong>Chen, G.</strong>, Jiao, J. J., Jiang, C., Luo, X.</p>
+    <p class="gc-pub-venue">Renewable and Sustainable Energy Reviews · 189, 113860 · IF 16.3</p>
+    <div class="gc-pub-badges"><span class="gc-badge gc-badge-if">IF 16.3</span></div>
+  </div>
+  <span class="gc-pub-year">2024</span>
+</div>
+
+<div class="gc-pub">
+  <span class="gc-pub-num">6</span>
+  <div>
+    <p class="gc-pub-title">
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0360544223006965">Fracture network characterisation with deep generative model-based stochastic inversion</a>
+    </p>
+    <p class="gc-pub-authors"><strong>Chen, G.</strong>, Luo, X., Jiao, J. J., Jiang, C.</p>
+    <p class="gc-pub-venue">Energy · 273, 127302 · IF 9.4</p>
+    <div class="gc-pub-badges"><span class="gc-badge gc-badge-if">IF 9.4</span></div>
+  </div>
+  <span class="gc-pub-year">2023</span>
+</div>
+
+<div class="gc-pub">
+  <span class="gc-pub-num">5</span>
+  <div>
+    <p class="gc-pub-title">
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0016236122019664">Data-driven evolutionary algorithm for oil reservoir well-placement and control optimisation</a>
+    </p>
+    <p class="gc-pub-authors"><strong>Chen, G.</strong>, Luo, X., Jiao, J. J., Xue, X.</p>
+    <p class="gc-pub-venue">Fuel · 326, 125125 · IF 7.5</p>
+    <div class="gc-pub-badges"><span class="gc-badge gc-badge-if">IF 7.5</span></div>
+  </div>
+  <span class="gc-pub-year">2022</span>
+</div>
+
+<div class="gc-pub">
+  <span class="gc-pub-num">4</span>
+  <div>
+    <p class="gc-pub-title">
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S1568494621011339">A radial basis function surrogate model-assisted evolutionary algorithm for high-dimensional expensive optimisation</a>
+    </p>
+    <p class="gc-pub-authors"><strong>Chen, G.</strong>, Zhang, K., Xue, X., Zhang, L., Yao, C., Wang, J., Yao, J.</p>
+    <p class="gc-pub-venue">Applied Soft Computing · 116, 108353 · IF 7.2</p>
+    <div class="gc-pub-badges"><span class="gc-badge gc-badge-if">IF 7.2</span></div>
+  </div>
+  <span class="gc-pub-year">2022</span>
+</div>
+
+<div class="gc-pub">
+  <span class="gc-pub-num">3</span>
+  <div>
+    <p class="gc-pub-title">
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025520306332">Efficient hierarchical surrogate-assisted differential evolution for high-dimensional expensive optimisation</a>
+    </p>
+    <p class="gc-pub-authors"><strong>Chen, G.</strong>, Li, Y., Zhang, K., Xue, X., Wang, J., Luo, Q., Yao, J.</p>
+    <p class="gc-pub-venue">Information Sciences · 542, 228–246 · IF 8.1</p>
+    <div class="gc-pub-badges"><span class="gc-badge gc-badge-if">IF 8.1</span></div>
+  </div>
+  <span class="gc-pub-year">2021</span>
+</div>
+
+<div class="gc-pub">
+  <span class="gc-pub-num">2</span>
+  <div>
+    <p class="gc-pub-title">
+      <a href="https://onepetro.org/SJ/article-abstract/25/01/105/452952/">Global and local surrogate-model-assisted differential evolution for waterflooding production optimisation</a>
+    </p>
+    <p class="gc-pub-authors"><strong>Chen, G.</strong>, Zhang, K., Zhang, L., Xue, X., Ji, D., Yao, C., et al.</p>
+    <p class="gc-pub-venue">SPE Journal · 25(01), 105–118 · IF 3.2</p>
+    <div class="gc-pub-badges"><span class="gc-badge gc-badge-if">IF 3.2</span></div>
+  </div>
+  <span class="gc-pub-year">2020</span>
+</div>
+
+<div class="gc-pub">
+  <span class="gc-pub-num">1</span>
+  <div>
+    <p class="gc-pub-title">
+      <a href="https://www.sciencedirect.com/science/article/pii/S092041051931054X">Surrogate-assisted evolutionary algorithm with dimensionality reduction for water flooding production optimisation</a>
+    </p>
+    <p class="gc-pub-authors"><strong>Chen, G.</strong>, Zhang, K., Xue, X., Zhang, L., Yao, J., Sun, H., et al.</p>
+    <p class="gc-pub-venue">Journal of Petroleum Science and Engineering · 185, 106633 · IF 5.2</p>
+    <div class="gc-pub-badges"><span class="gc-badge gc-badge-if">IF 5.2</span></div>
+  </div>
+  <span class="gc-pub-year">2020</span>
+</div>
+
+</div>
