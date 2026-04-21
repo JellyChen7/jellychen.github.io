@@ -269,15 +269,15 @@ redirect_from:
   </div>
   <div class="gc-stat">
     <div class="gc-stat-n">9+</div>
-    <div class="gc-stat-l">Top-10 IF journals</div>
+    <div class="gc-stat-l">IF 10+ journals</div>
   </div>
   <div class="gc-stat">
     <div class="gc-stat-n">15</div>
     <div class="gc-stat-l">First-author papers</div>
   </div>
   <div class="gc-stat">
-    <div class="gc-stat-n">1%</div>
-    <div class="gc-stat-l">Best PhD&Master thesis</div>
+    <div class="gc-stat-n">1,550+</div>
+    <div class="gc-stat-l">Citations</div>
   </div>
 </div>
 
