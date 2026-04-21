@@ -268,16 +268,16 @@ redirect_from:
     <div class="gc-stat-l">Publications</div>
   </div>
   <div class="gc-stat">
-    <div class="gc-stat-n">7+</div>
+    <div class="gc-stat-n">9+</div>
     <div class="gc-stat-l">Top-10 IF journals</div>
   </div>
   <div class="gc-stat">
-    <div class="gc-stat-n">4</div>
-    <div class="gc-stat-l">Institutions</div>
+    <div class="gc-stat-n">15</div>
+    <div class="gc-stat-l">First-author papers</div>
   </div>
   <div class="gc-stat">
     <div class="gc-stat-n">1%</div>
-    <div class="gc-stat-l">Best PhD thesis</div>
+    <div class="gc-stat-l">Best PhD&Master thesis</div>
   </div>
 </div>
 
