@@ -5,5 +5,12 @@
 # prevent it from being included in the site.
 
 main:
-Research:
-CV:
+main:
+  - title: "About"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "CV"
+    url: /files/cv.pdf
