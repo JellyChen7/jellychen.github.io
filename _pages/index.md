@@ -254,7 +254,7 @@ redirect_from:
     <span class="gc-pill">CUP-East China</span>
   </div>
   <div class="gc-links">
-    <a href="/files/cv.pdf">Curriculum Vitae (PDF)</a>
+    <a href="/files/CV.pdf">Curriculum Vitae (PDF)</a>
     <a href="mailto:guodong.chen@berkeley.edu">Email</a>
     <a href="https://github.com/JellyChen7">GitHub</a>
     <a href="https://scholar.google.com">Google Scholar</a>
