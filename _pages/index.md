@@ -257,7 +257,7 @@ redirect_from:
     <a href="/files/CV.pdf">Curriculum Vitae (PDF)</a>
     <a href="mailto:guodong.chen@berkeley.edu">Email</a>
     <a href="https://github.com/JellyChen7">GitHub</a>
-    <a href="https://scholar.google.com">Google Scholar</a>
+    <a href="https://scholar.google.com/citations?user=U2YFkAgAAAAJ&hl=zh-CN&authuser=1&oi=ao">Google Scholar</a>
   </div>
 </div>
 
