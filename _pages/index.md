@@ -264,11 +264,11 @@ redirect_from:
 <!-- STATS -->
 <div class="gc-stats">
   <div class="gc-stat">
-    <div class="gc-stat-n">35</div>
+    <div class="gc-stat-n">40</div>
     <div class="gc-stat-l">Publications</div>
   </div>
   <div class="gc-stat">
-    <div class="gc-stat-n">9</div>
+    <div class="gc-stat-n">10</div>
     <div class="gc-stat-l">IF 10+ journals</div>
   </div>
   <div class="gc-stat">
@@ -276,7 +276,7 @@ redirect_from:
     <div class="gc-stat-l">First-author papers</div>
   </div>
   <div class="gc-stat">
-    <div class="gc-stat-n">1,550+</div>
+    <div class="gc-stat-n">1,650+</div>
     <div class="gc-stat-l">Citations</div>
   </div>
 </div>
@@ -403,7 +403,7 @@ redirect_from:
   </div>
 
   <p style="margin-top:16px;font-size:0.82rem;color:#888;">
-    <a href="/publications/" style="color:#2a5caa;text-decoration:none;font-weight:500;border-bottom:1px solid transparent;" onmouseover="this.style.borderColor='#2a5caa'" onmouseout="this.style.borderColor='transparent'">View all 35 publications →</a>
+    <a href="/publications/" style="color:#2a5caa;text-decoration:none;font-weight:500;border-bottom:1px solid transparent;" onmouseover="this.style.borderColor='#2a5caa'" onmouseout="this.style.borderColor='transparent'">View all 40 publications →</a>
   </p>
 </div>
 
