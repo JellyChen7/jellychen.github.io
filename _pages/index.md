@@ -254,7 +254,7 @@ redirect_from:
     <span class="gc-pill">CUP-East China</span>
   </div>
   <div class="gc-links">
-    <a href="/files/CV.pdf">Curriculum Vitae (PDF)</a>
+    <a href="https://jellychen7.github.io/jellychen.github.io/files/cv.pdf">Curriculum Vitae (PDF)</a>
     <a href="mailto:guodong.chen@berkeley.edu">Email</a>
     <a href="https://github.com/JellyChen7">GitHub</a>
     <a href="https://scholar.google.com/citations?user=U2YFkAgAAAAJ&hl=zh-CN&authuser=1&oi=ao">Google Scholar</a>
@@ -434,7 +434,7 @@ redirect_from:
 
   <p style="margin-top:14px;font-size:0.82rem;color:#888;">
     Full list of awards and scholarships in 
-    <a href="/files/CV.pdf" style="color:#2a5caa;text-decoration:none;font-weight:500;">CV (PDF)</a>.
+    <a href="https://jellychen7.github.io/jellychen.github.io/files/cv.pdf" style="color:#2a5caa;text-decoration:none;font-weight:500;">CV (PDF)</a>.
   </p>
 </div>
 
