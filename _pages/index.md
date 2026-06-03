@@ -403,7 +403,7 @@ redirect_from:
   </div>
 
   <p style="margin-top:16px;font-size:0.82rem;color:#888;">
-    <a href="/publications/" style="color:#2a5caa;text-decoration:none;font-weight:500;border-bottom:1px solid transparent;" onmouseover="this.style.borderColor='#2a5caa'" onmouseout="this.style.borderColor='transparent'">View all 40 publications →</a>
+    <a href="https://jellychen7.github.io/jellychen.github.io/publications/" style="color:#2a5caa;text-decoration:none;font-weight:500;border-bottom:1px solid transparent;" onmouseover="this.style.borderColor='#2a5caa'" onmouseout="this.style.borderColor='transparent'">View all publications →</a>
   </p>
 </div>
 
