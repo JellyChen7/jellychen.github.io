@@ -20,8 +20,8 @@ repository               : "https://github.com/JellyChen7"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "Jelly.png"
+  # Biographic information Jelly.png
+  avatar           : "Guodong.png"
   name             : "Guodong CHEN"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher"
