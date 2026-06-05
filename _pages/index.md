@@ -324,12 +324,10 @@ redirect_from:
   <div class="gc-pub">
     <div>
       <p class="gc-pub-title">
-        <a href="https://github.com/JellyChen7/FracCGM">Spatiotemporal fluid flow prediction in subsurface fractured media using diffusion models</a>
+        <a href="https://www.sciencedirect.com/science/article/pii/S0306261926000899">Energy-efficient greenhouse climate control with diffusion reinforcement learning</a>
       </p>
-      <p class="gc-pub-venue">Journal of Geophysical Research: Solid Earth · Under Review · 2025</p>
+      <p class="gc-pub-venue">Applied Energy · 2026</p>
       <div class="gc-pub-badges">
-        <span class="gc-badge gc-badge-ni">Nature Index</span>
-        <span class="gc-badge gc-badge-code">Code</span>
       </div>
     </div>
     <span class="gc-pub-year">2025</span>
