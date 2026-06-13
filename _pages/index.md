@@ -326,7 +326,7 @@ redirect_from:
       <p class="gc-pub-title">
         <a href="https://www.sciencedirect.com/science/article/pii/S0306261926000899">Energy-efficient greenhouse climate control with diffusion reinforcement learning</a>
       </p>
-      <p class="gc-pub-venue">Applied Energy · 2026</p>
+      <p class="gc-pub-venue">Applied Energy (Nature Index) · 2026</p>
       <div class="gc-pub-badges">
       </div>
     </div>
@@ -392,7 +392,7 @@ redirect_from:
       <p class="gc-pub-title">
         <a href="https://www.sciencedirect.com/science/article/abs/pii/S0360544223006965">Fracture network characterisation with deep generative model-based stochastic inversion</a>
       </p>
-      <p class="gc-pub-venue">Energy · IF 9.4 · 2023</p>
+      <p class="gc-pub-venue">Energy (Nature Index) · IF 9.4 · 2023</p>
       <div class="gc-pub-badges">
         <span class="gc-badge gc-badge-if">IF 9.4</span>
       </div>
