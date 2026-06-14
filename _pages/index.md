@@ -488,7 +488,15 @@ redirect_from:
 </center>
 <!-- END: Powered by Supercounters.com -->
 
-
+<!-- Visitor Map -->
+<div style="text-align:center; margin-top:1rem;">
+  <script type="text/javascript" src="//widget.supercounters.com/ssl/map.js"></script>
+  <script type="text/javascript">
+    var sc_map_var = sc_map_var || [];
+    sc_map(1735364, "ccdcff", "ff0000", 1)
+  </script>
+  <noscript><a href="http://www.supercounters.com/">free online counter</a></noscript>
+</div>
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=ewcit6dbr21sN_H1W7FrIsT7oGsPAbBWnjn2ZH1UI8U&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 
