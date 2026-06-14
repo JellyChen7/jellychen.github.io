@@ -405,7 +405,7 @@ redirect_from:
       <p class="gc-pub-title">
         <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120253?utm_medium=article&utm_source=researchgate.net">Physics‐Supervised Autonomous Inverse Fracture Modeling via Generative Artificial Intelligence</a>
       </p>
-      <p class="gc-pub-venue">Geophysical Research Letters (Nature Index) · IF 4.6 · 2023</p>
+      <p class="gc-pub-venue">Geophysical Research Letters (Nature Index) · IF 4.6 · 2026</p>
       <div class="gc-pub-badges">
         <span class="gc-badge gc-badge-if">IF 4.6</span>
       </div>
