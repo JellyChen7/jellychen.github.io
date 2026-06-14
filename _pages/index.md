@@ -330,7 +330,7 @@ redirect_from:
       <div class="gc-pub-badges">
       </div>
     </div>
-    <span class="gc-pub-year">2025</span>
+    <span class="gc-pub-year">2026</span>
   </div>
 
   <div class="gc-pub">
