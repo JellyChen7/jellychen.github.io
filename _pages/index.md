@@ -483,33 +483,6 @@ redirect_from:
   </p>
 </div>
 
-<!-- BEGIN: Powered by Supercounters.com -->
-<center><script type="text/javascript" src="//widget.supercounters.com/ssl/map.js"></script><script type="text/javascript">var sc_map_var = sc_map_var || [];sc_map(1735364,"ccdcff","ff0000",1)</script><br><noscript><a href="http://www.supercounters.com/">free online counter</a></noscript>
-</center>
-<!-- END: Powered by Supercounters.com -->
-
-<!-- Visitor Map -->
-<div style="text-align:center; margin-top:1rem;">
-  <script type="text/javascript" src="//widget.supercounters.com/ssl/map.js"></script>
-  <script type="text/javascript">
-    var sc_map_var = sc_map_var || [];
-    sc_map(1735364, "ccdcff", "ff0000", 1)
-  </script>
-  <noscript><a href="http://www.supercounters.com/">free online counter</a></noscript>
-</div>
-
-<a href="https://info.flagcounter.com/1735364">
-  <img src="https://s11.flagcounter.com/count2/1735364/bg_FFFFFF/..."
-       alt="Flag Counter" border="0">
-</a>
-
-  <div style="text-align:center; margin-top:1rem;">
-    <a href="https://flagcounter.com/more/你的ID">
-      <img src="https://s11.flagcounter.com/count2/你的ID/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/"
-           alt="Flag Counter" style="border:0;">
-    </a>
-  </div>
-
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=ewcit6dbr21sN_H1W7FrIsT7oGsPAbBWnjn2ZH1UI8U&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 
 </div>
