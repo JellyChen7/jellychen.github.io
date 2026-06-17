@@ -326,7 +326,7 @@ redirect_from:
       <p class="gc-pub-title">
         <a href="https://www.sciencedirect.com/science/article/pii/S0306261926000899">Energy-efficient greenhouse climate control with diffusion reinforcement learning</a>
       </p>
-      <p class="gc-pub-venue">Applied Energy (Nature Index) · 2026</p>
+      <p class="gc-pub-venue">Applied Energy (Nature Index) · IF 12.2 · 2026</p>
       <div class="gc-pub-badges">
       </div>
     </div>
@@ -338,9 +338,9 @@ redirect_from:
       <p class="gc-pub-title">
         <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11224780">Expensive multi-objective optimization guided by attention-enhanced generative models</a>
       </p>
-      <p class="gc-pub-venue">IEEE Transactions on Neural Networks and Learning Systems · IF 8.9</p>
+      <p class="gc-pub-venue">IEEE Transactions on Neural Networks and Learning Systems · IF 9.7</p>
       <div class="gc-pub-badges">
-        <span class="gc-badge gc-badge-if">IF 8.9</span>
+        <span class="gc-badge gc-badge-if">IF 9.7</span>
         <span class="gc-badge gc-badge-code">Code</span>
       </div>
     </div>
@@ -366,9 +366,9 @@ redirect_from:
       <p class="gc-pub-title">
         <a href="https://www.sciencedirect.com/science/article/abs/pii/S1364032123007189">Surrogate-assisted level-based learning evolutionary search for geothermal heat extraction optimisation</a>
       </p>
-      <p class="gc-pub-venue">Renewable and Sustainable Energy Reviews · IF 16.3 · 2024</p>
+      <p class="gc-pub-venue">Renewable and Sustainable Energy Reviews · IF 18.0 · 2024</p>
       <div class="gc-pub-badges">
-        <span class="gc-badge gc-badge-if">IF 16.3</span>
+        <span class="gc-badge gc-badge-if">IF 18.0</span>
       </div>
     </div>
     <span class="gc-pub-year">2024</span>
@@ -379,9 +379,9 @@ redirect_from:
       <p class="gc-pub-title">
         <a href="https://ager.yandypress.com/index.php/2207-9963/article/view/506/524">Multi-fidelity machine learning with knowledge transfer enhances geothermal energy system design</a>
       </p>
-      <p class="gc-pub-venue">Advances in Geo-Energy Research · IF 10.0 · 2025</p>
+      <p class="gc-pub-venue">Advances in Geo-Energy Research · IF 11.2 · 2025</p>
       <div class="gc-pub-badges">
-        <span class="gc-badge gc-badge-if">IF 10.0</span>
+        <span class="gc-badge gc-badge-if">IF 11.2</span>
       </div>
     </div>
     <span class="gc-pub-year">2025</span>
@@ -392,9 +392,9 @@ redirect_from:
       <p class="gc-pub-title">
         <a href="https://www.sciencedirect.com/science/article/abs/pii/S0360544223006965">Fracture network characterisation with deep generative model-based stochastic inversion</a>
       </p>
-      <p class="gc-pub-venue">Energy (Nature Index) · IF 9.4 · 2023</p>
+      <p class="gc-pub-venue">Energy (Nature Index) · IF 10.1 · 2023</p>
       <div class="gc-pub-badges">
-        <span class="gc-badge gc-badge-if">IF 9.4</span>
+        <span class="gc-badge gc-badge-if">IF 10.1</span>
       </div>
     </div>
     <span class="gc-pub-year">2023</span>
@@ -405,9 +405,9 @@ redirect_from:
       <p class="gc-pub-title">
         <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120253?utm_medium=article&utm_source=researchgate.net">Physics‐Supervised Autonomous Inverse Fracture Modeling via Generative Artificial Intelligence</a>
       </p>
-      <p class="gc-pub-venue">Geophysical Research Letters (Nature Index) · IF 4.6 · 2026</p>
+      <p class="gc-pub-venue">Geophysical Research Letters (Nature Index) · IF 5.0 · 2026</p>
       <div class="gc-pub-badges">
-        <span class="gc-badge gc-badge-if">IF 4.6</span>
+        <span class="gc-badge gc-badge-if">IF 5.0</span>
       </div>
     </div>
     <span class="gc-pub-year">2026</span>
