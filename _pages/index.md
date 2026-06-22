@@ -326,11 +326,13 @@ redirect_from:
       <p class="gc-pub-title">
         <a href="https://www.sciencedirect.com/science/article/pii/S0306261926000899">Energy-efficient greenhouse climate control with diffusion reinforcement learning</a>
       </p>
-      <p class="gc-pub-venue">Applied Energy (Nature Index) · IF 12.2 · 2026</p>
+      <p class="gc-pub-venue">Applied Energy · 2026</p>
       <div class="gc-pub-badges">
       </div>
     </div>
     <span class="gc-pub-year">2026</span>
+        <span class="gc-badge gc-badge-if">IF 12.2</span>
+        <span class="gc-badge gc-badge-code">Nature Index</span>
   </div>
 
   <div class="gc-pub">
