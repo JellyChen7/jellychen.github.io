@@ -326,7 +326,7 @@ redirect_from:
       <p class="gc-pub-title">
         <a href="https://www.sciencedirect.com/science/article/pii/S0306261926000899">Energy-efficient greenhouse climate control with diffusion reinforcement learning</a>
       </p>
-      <p class="gc-pub-venue">Applied Energy · 2026</p>
+      <p class="gc-pub-venue">Applied Energy · 2026</p>
       <div class="gc-pub-badges">
       </div>
     </div>
@@ -343,7 +343,6 @@ redirect_from:
       <p class="gc-pub-venue">IEEE Transactions on Neural Networks and Learning Systems · IF 9.7</p>
       <div class="gc-pub-badges">
         <span class="gc-badge gc-badge-if">IF 9.7</span>
-        <span class="gc-badge gc-badge-code">Code</span>
       </div>
     </div>
     <span class="gc-pub-year">2025</span>
@@ -397,6 +396,7 @@ redirect_from:
       <p class="gc-pub-venue">Energy (Nature Index) · IF 10.1 · 2023</p>
       <div class="gc-pub-badges">
         <span class="gc-badge gc-badge-if">IF 10.1</span>
+        <span class="gc-badge gc-badge-code">Nature Index</span>
       </div>
     </div>
     <span class="gc-pub-year">2023</span>
@@ -407,9 +407,10 @@ redirect_from:
       <p class="gc-pub-title">
         <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120253?utm_medium=article&utm_source=researchgate.net">Physics‐Supervised Autonomous Inverse Fracture Modeling via Generative Artificial Intelligence</a>
       </p>
-      <p class="gc-pub-venue">Geophysical Research Letters (Nature Index) · IF 5.0 · 2026</p>
+      <p class="gc-pub-venue">Geophysical Research Letters · IF 5.0 · 2026</p>
       <div class="gc-pub-badges">
         <span class="gc-badge gc-badge-if">IF 5.0</span>
+        <span class="gc-badge gc-badge-code">Nature Index</span>
       </div>
     </div>
     <span class="gc-pub-year">2026</span>
