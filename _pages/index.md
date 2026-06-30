@@ -338,20 +338,6 @@ redirect_from:
   <div class="gc-pub">
     <div>
       <p class="gc-pub-title">
-        <a href="https://www.sciencedirect.com/science/article/pii/S0306261926000899">Energy-efficient greenhouse climate control with diffusion reinforcement learning</a>
-      </p>
-      <p class="gc-pub-venue">Applied Energy · IF 12.2</p>
-      <div class="gc-pub-badges">
-        <span class="gc-badge gc-badge-if">IF 12.2</span>
-        <span class="gc-badge gc-badge-code">Nature Index</span>
-      </div>
-    </div>
-    <span class="gc-pub-year">2026</span>
-  </div>
-
-  <div class="gc-pub">
-    <div>
-      <p class="gc-pub-title">
         <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11224780">Expensive multi-objective optimization guided by attention-enhanced generative models</a>
       </p>
       <p class="gc-pub-venue">IEEE Transactions on Neural Networks and Learning Systems · IF 9.7</p>
