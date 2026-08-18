@@ -426,22 +426,22 @@ redirect_from:
   <div class="gc-section-label">Recognition</div>
 
   <div class="gc-award">
-    <span class="gc-award-pct">Top 1%</span>
+    <span class="gc-award-pct"></span>
     <span class="gc-award-name">HKIE Ringo Yu Prize for Best PhD Thesis</span>
     <span class="gc-award-inst">HKIE</span>
   </div>
   <div class="gc-award">
-    <span class="gc-award-pct">Top 3%</span>
+    <span class="gc-award-pct"></span>
     <span class="gc-award-name">HKU Foundation Excellent PhD Award</span>
     <span class="gc-award-inst">HKU</span>
   </div>
   <div class="gc-award">
-    <span class="gc-award-pct">Top 1%</span>
+    <span class="gc-award-pct"></span>
     <span class="gc-award-name">Outstanding Master's Thesis of Shandong Province</span>
     <span class="gc-award-inst">Shandong Province</span>
   </div>
   <div class="gc-award">
-    <span class="gc-award-pct">Top 1%</span>
+    <span class="gc-award-pct"></span>
     <span class="gc-award-name">National Scholarship, China Ministry of Education</span>
     <span class="gc-award-inst">China MOE</span>
   </div>
