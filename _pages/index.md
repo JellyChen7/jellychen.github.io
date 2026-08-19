@@ -488,13 +488,6 @@ redirect_from:
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=ewcit6dbr21sN_H1W7FrIsT7oGsPAbBWnjn2ZH1UI8U&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 
-<!-- VISITOR MAP -->
-<div class="gc-section">
-  <div class="gc-section-label">Visitors</div>
-
-  <div style="text-align:center; margin-top:20px;">
-    <!-- Paste Flag Counter "Flag Map" HTML here -->
-  </div>
-</div>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=ucQPKPnN4O5zRRYSv11g1dxvQtRDXVKmw09uWFLjL3I&cl=ffffff&w=a"></script>
 
 </div>
