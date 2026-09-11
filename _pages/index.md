@@ -296,31 +296,6 @@ redirect_from:
 
 .home-more a:hover { text-decoration: underline; }
 
-.home-two-col {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 2.2rem;
-}
-
-.home-compact {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-.home-compact li {
-  padding: .55rem 0;
-  border-bottom: 1px solid #ededed;
-  color: #555;
-  font-size: .80rem;
-  line-height: 1.5;
-}
-
-.home-compact strong {
-  color: #222;
-  font-weight: 600;
-}
-
 @media (max-width: 680px) {
   .home-name { font-size: 2rem; }
   .home-banner { height: 250px; margin-bottom: 2.2rem; }
@@ -333,7 +308,6 @@ redirect_from:
   .home-directions { grid-template-columns: 1fr; gap: .85rem; }
   .home-row { grid-template-columns: 1fr; gap: .2rem; }
   .home-date { white-space: normal; }
-  .home-two-col { grid-template-columns: 1fr; gap: 1.5rem; }
 }
 </style>
 
@@ -529,33 +503,6 @@ redirect_from:
   </section>
 
   <section class="home-section">
-    <h2 class="home-heading">Selected scholarly activities</h2>
-    <div class="home-two-col">
-      <div>
-        <div class="home-group-label" style="margin-top:0;">Invited seminars</div>
-        <ul class="home-compact">
-          <li><strong>Stanford University</strong> · 2026</li>
-          <li><strong>Lawrence Berkeley National Laboratory</strong> · 2025</li>
-          <li><strong>Cornell University</strong> · 2025</li>
-          <li><strong>MIT</strong> · 2024</li>
-          <li><strong>Yale University</strong> · 2024</li>
-          <li><strong>Stanford University</strong> · 2024</li>
-        </ul>
-      </div>
-      <div>
-        <div class="home-group-label" style="margin-top:0;">Teaching, mentoring &amp; service</div>
-        <ul class="home-compact">
-          <li>Teaching assistant and tutorial leader across <strong>five Earth Sciences courses at HKU</strong>.</li>
-          <li>Research mentoring involving PhD and MSc researchers at <strong>Stanford/LBNL, Peking University, Arizona State University, and CUP(E)</strong>.</li>
-          <li><strong>Primary Convener</strong>, AGU Annual Meeting 2026 session.</li>
-          <li>Reviewer for journals spanning geoscience, energy systems, and machine learning.</li>
-        </ul>
-      </div>
-    </div>
-    <p class="home-more"><a href="{{ site.url }}{{ site.baseurl }}/activities/">More academic activities →</a></p>
-  </section>
-
-  <section class="home-section">
     <h2 class="home-heading">Recognition</h2>
     <div class="home-row">
       <div class="home-date">Doctoral</div>
@@ -585,5 +532,10 @@ redirect_from:
       </div>
     </div>
   </section>
+
+  <div style="margin-top:2.5rem;padding-top:1rem;border-top:1px solid #eeeeee;">
+    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=ewcit6dbr21sN_H1W7FrIsT7oGsPAbBWnjn2ZH1UI8U&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=ucQPKPnN4O5zRRYSv11g1dxvQtRDXVKmw09uWFLjL3I&cl=ffffff&w=a"></script>
+  </div>
 
 </div>
