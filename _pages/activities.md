@@ -86,70 +86,9 @@ author_profile: true
 <div class="activities-page">
 
 <p class="activities-intro">
-  Selected invited seminars, teaching and mentoring activities, conference organization,
-  and professional service. This page complements the research and publication record by
-  summarizing broader academic engagement.
+  Selected teaching, conference organization, editorial activities, peer review, and patents.
+  This page complements the research and publication record by summarizing broader academic service.
 </p>
-
-<section class="activities-section">
-  <h2 class="activities-heading">Invited seminars &amp; research talks</h2>
-
-  <div class="activities-row">
-    <div class="activities-year">2026</div>
-    <div>
-      <div class="activities-title">Stanford University</div>
-      <div class="activities-meta">Hosted by Prof. Roland Horne and Prof. Louis Durlofsky · Stanford, California</div>
-    </div>
-  </div>
-
-  <div class="activities-row">
-    <div class="activities-year">2025</div>
-    <div>
-      <div class="activities-title">Lawrence Berkeley National Laboratory</div>
-      <div class="activities-meta">Hosted by Prof. Jonny Rutqvist and Prof. Jens Birkholzer · Berkeley, California</div>
-    </div>
-  </div>
-
-  <div class="activities-row">
-    <div class="activities-year">2025</div>
-    <div>
-      <div class="activities-title">Cornell University</div>
-      <div class="activities-meta">Hosted by Prof. Fengqi You · Ithaca, New York</div>
-    </div>
-  </div>
-
-  <div class="activities-row">
-    <div class="activities-year">2024</div>
-    <div>
-      <div class="activities-title">Massachusetts Institute of Technology</div>
-      <div class="activities-meta">Hosted by Dr. Aimé Fournier and Prof. Laurent Demanet · Cambridge, Massachusetts</div>
-    </div>
-  </div>
-
-  <div class="activities-row">
-    <div class="activities-year">2024</div>
-    <div>
-      <div class="activities-title">Yale University</div>
-      <div class="activities-meta">Hosted by Prof. Lu Lu · New Haven, Connecticut</div>
-    </div>
-  </div>
-
-  <div class="activities-row">
-    <div class="activities-year">2024</div>
-    <div>
-      <div class="activities-title">Stanford University</div>
-      <div class="activities-meta">Hosted by Prof. Jef Caers · Stanford, California</div>
-    </div>
-  </div>
-
-  <div class="activities-row">
-    <div class="activities-year">2024</div>
-    <div>
-      <div class="activities-title">Westlake University</div>
-      <div class="activities-meta">Hosted by Prof. Yaochu Jin · Hangzhou, China</div>
-    </div>
-  </div>
-</section>
 
 <section class="activities-section">
   <h2 class="activities-heading">Teaching</h2>
@@ -161,28 +100,6 @@ author_profile: true
     <li>Engineering Geology — undergraduate</li>
     <li>Applied Hydrogeology — MSc</li>
     <li>Geology Principles and Practice — MSc</li>
-  </ul>
-</section>
-
-<section class="activities-section">
-  <h2 class="activities-heading">Research mentoring</h2>
-  <p class="activities-note">
-    Research mentoring and co-mentoring have involved PhD and MSc researchers affiliated with
-    Stanford University/LBNL, Peking University, Arizona State University, and China University of Petroleum.
-  </p>
-  <div class="activities-subheading">PhD researchers</div>
-  <ul class="activities-list">
-    <li>Sarah Sausan — Stanford University, intern at LBNL</li>
-    <li>Zhongzheng Wang — Peking University</li>
-    <li>Qinyang Dai — China University of Petroleum</li>
-    <li>Haoyue Bai — Arizona State University</li>
-    <li>Jin Chen — China University of Petroleum</li>
-  </ul>
-  <div class="activities-subheading">MSc researchers</div>
-  <ul class="activities-list">
-    <li>Zhongzheng Wang — China University of Petroleum</li>
-    <li>Mengjie Zhao — China University of Petroleum</li>
-    <li>Xinggang Zhao — China University of Petroleum</li>
   </ul>
 </section>
 
