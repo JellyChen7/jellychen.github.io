@@ -58,31 +58,60 @@ redirect_from:
 
 .home-links a:hover { border-bottom-color: #24558a; }
 
-.home-campus {
+.home-banner {
   position: relative;
-  min-height: 215px;
-  margin: 0 0 .4rem;
-  border-radius: 3px;
+  width: 100%;
+  height: clamp(320px, 44vw, 430px);
+  margin: 0 0 2.7rem;
   overflow: hidden;
   background:
-    linear-gradient(to right, rgba(13,25,40,.05), rgba(13,25,40,.12)),
-    url("https://upload.wikimedia.org/wikipedia/commons/6/66/UC-Berkeley-001-campanile-way-view-west-from-bottom-of-Sather-Tower.jpg")
-    center 46% / cover no-repeat;
+    linear-gradient(180deg, rgba(10,20,32,.02) 35%, rgba(10,20,32,.58) 100%),
+    url("https://commons.wikimedia.org/wiki/Special:FilePath/Sather%20Tower%20from%20Memorial%20Glade.jpg")
+    center 42% / cover no-repeat;
+  border-top: 1px solid #e2e2e2;
+  border-bottom: 1px solid #d8d8d8;
 }
 
-.home-photo-credit {
-  margin: 0 0 2.2rem;
-  color: #aaa;
-  font-size: .66rem;
-  text-align: right;
+.home-banner-caption {
+  position: absolute;
+  left: 1.35rem;
+  bottom: 1.15rem;
+  color: #fff;
+  text-shadow: 0 1px 3px rgba(0,0,0,.45);
 }
 
-.home-photo-credit a {
+.home-banner-caption strong {
+  display: block;
+  margin-bottom: .08rem;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.05rem;
+  font-weight: 400;
+  letter-spacing: .01em;
+}
+
+.home-banner-caption span {
+  display: block;
+  font-size: .72rem;
+  font-weight: 400;
+  letter-spacing: .03em;
+  opacity: .92;
+}
+
+.home-banner-credit {
+  position: absolute;
+  right: .9rem;
+  bottom: .65rem;
+  color: rgba(255,255,255,.72);
+  font-size: .58rem;
+  line-height: 1.35;
+}
+
+.home-banner-credit a {
   color: inherit;
   text-decoration: none;
 }
 
-.home-photo-credit a:hover { text-decoration: underline; }
+.home-banner-credit a:hover { text-decoration: underline; }
 
 .home-stats {
   display: grid;
@@ -294,7 +323,10 @@ redirect_from:
 
 @media (max-width: 680px) {
   .home-name { font-size: 2rem; }
-  .home-campus { min-height: 165px; }
+  .home-banner { height: 250px; margin-bottom: 2.2rem; }
+  .home-banner-caption { left: 1rem; bottom: .9rem; }
+  .home-banner-caption strong { font-size: .94rem; }
+  .home-banner-credit { display: none; }
   .home-stats { grid-template-columns: repeat(2, 1fr); }
   .home-stat:nth-child(2) { border-right: none; }
   .home-stat:nth-child(-n+2) { border-bottom: 1px solid #e5e5e5; }
@@ -320,11 +352,15 @@ redirect_from:
     </div>
   </header>
 
-  <div class="home-campus" role="img" aria-label="Campanile Way at the University of California, Berkeley"></div>
-  <p class="home-photo-credit">
-    UC Berkeley, Campanile Way ·
-    <a href="https://commons.wikimedia.org/wiki/File:UC-Berkeley-001-campanile-way-view-west-from-bottom-of-Sather-Tower.jpg">CC0 image, Wikimedia Commons</a>
-  </p>
+  <div class="home-banner" role="img" aria-label="Sather Tower at the University of California, Berkeley viewed from Memorial Glade">
+    <div class="home-banner-caption">
+      <strong>University of California, Berkeley</strong>
+      <span>Sather Tower · Memorial Glade</span>
+    </div>
+    <div class="home-banner-credit">
+      <a href="https://commons.wikimedia.org/wiki/File:Sather_Tower_from_Memorial_Glade.jpg">Photo: Coolcaesar / Wikimedia Commons · CC BY-SA 4.0</a>
+    </div>
+  </div>
 
   <div class="home-stats">
     <div class="home-stat"><strong>40+</strong><span>Journal papers</span></div>
