@@ -386,7 +386,7 @@ redirect_from:
     <div class="gc-bg-heading">Postdoctoral appointments</div>
 
 <div class="gc-bg-row">
-  <div class="gc-bg-date">Oct. 2025 — Present</div>
+  <div class="gc-bg-date">Oct. 2025 — Now</div>
   <div>
     <div class="gc-bg-title">Postdoctoral Researcher</div>
     <div class="gc-bg-inst">University of California, Berkeley &amp; Lawrence Berkeley National Laboratory</div>
