@@ -1,11 +1,11 @@
----
 permalink: /
 title: " "
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+redirect_from:
+
+/about/
+
+/about.html
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
@@ -19,7 +19,7 @@ redirect_from:
   font-weight: 400;
   color: #1a1a1a;
   line-height: 1.7;
-  max-width: 720px;
+  max-width: 780px;
 }
 
 /* ── hero ─────────────────────────────────────── */
@@ -151,6 +151,153 @@ redirect_from:
 .gc-tag-green { background: #eaf4ec; color: #1a5c2e; border: 1px solid #b8dfc0; }
 .gc-tag-sand  { background: #f7f3ec; color: #6b4c1e; border: 1px solid #ddd0bc; }
 
+
+/* ── education / academic formation ──────────── */
+.gc-edu-intro {
+  font-size: 0.94rem;
+  color: #4a4a4a;
+  line-height: 1.8;
+  margin-bottom: 26px;
+  max-width: 710px;
+}
+.gc-edu-intro strong {
+  color: #161616;
+  font-weight: 500;
+}
+.gc-edu-timeline {
+  position: relative;
+}
+.gc-edu-timeline::before {
+  content: "";
+  position: absolute;
+  left: 86px;
+  top: 12px;
+  bottom: 14px;
+  width: 1px;
+  background: #ddd7cc;
+}
+.gc-edu-item {
+  display: grid;
+  grid-template-columns: 72px 1fr;
+  gap: 30px;
+  position: relative;
+  padding-bottom: 26px;
+}
+.gc-edu-item:last-child { padding-bottom: 0; }
+.gc-edu-item::before {
+  content: "";
+  position: absolute;
+  left: 82px;
+  top: 11px;
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: #faf9f6;
+  border: 2px solid #2a5caa;
+  z-index: 2;
+}
+.gc-edu-years {
+  font-family: 'DM Serif Display', serif;
+  font-size: 0.86rem;
+  color: #777;
+  line-height: 1.35;
+  padding-top: 3px;
+  text-align: right;
+  white-space: nowrap;
+}
+.gc-edu-card {
+  position: relative;
+  padding: 20px 22px 19px;
+  border: 1px solid #e4dfd5;
+  border-radius: 6px;
+  background: linear-gradient(135deg, #ffffff 0%, #fcfbf8 100%);
+  box-shadow: 0 6px 20px rgba(30, 30, 25, 0.035);
+  transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease;
+  overflow: hidden;
+}
+.gc-edu-card:hover {
+  transform: translateY(-2px);
+  border-color: #d5cec1;
+  box-shadow: 0 10px 28px rgba(30, 30, 25, 0.06);
+}
+.gc-edu-card::after {
+  content: attr(data-mark);
+  position: absolute;
+  right: 16px;
+  top: 7px;
+  font-family: 'DM Serif Display', serif;
+  font-size: 3.4rem;
+  line-height: 1;
+  color: rgba(42, 92, 170, 0.045);
+  letter-spacing: -.06em;
+  pointer-events: none;
+}
+.gc-edu-inst {
+  font-size: 0.69rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: .085em;
+  color: #2a5caa;
+  margin-bottom: 5px;
+  padding-right: 64px;
+}
+.gc-edu-degree {
+  font-family: 'DM Serif Display', serif;
+  font-size: 1.13rem;
+  font-weight: 400;
+  color: #111;
+  line-height: 1.35;
+  margin-bottom: 5px;
+  padding-right: 44px;
+}
+.gc-edu-meta {
+  font-size: 0.79rem;
+  color: #858585;
+  margin-bottom: 12px;
+}
+.gc-edu-desc {
+  font-size: 0.86rem;
+  color: #4d4d4d;
+  line-height: 1.7;
+  margin-bottom: 11px;
+}
+.gc-edu-desc strong {
+  color: #222;
+  font-weight: 500;
+}
+.gc-edu-details {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 10px;
+}
+.gc-edu-chip {
+  display: inline-block;
+  font-size: 0.66rem;
+  line-height: 1.2;
+  padding: 4px 8px;
+  border: 1px solid #ddd6c9;
+  border-radius: 2px;
+  color: #665c4e;
+  background: #faf7f1;
+  font-weight: 500;
+  letter-spacing: .02em;
+}
+.gc-edu-chip-award {
+  color: #6b4c1e;
+  background: #f8f2e8;
+  border-color: #dfcfb5;
+}
+.gc-edu-footnote {
+  margin: 22px 0 0 102px;
+  padding: 12px 15px;
+  border-left: 2px solid #c6d7ee;
+  background: #f8fafc;
+  font-size: 0.78rem;
+  color: #66717d;
+  line-height: 1.65;
+}
+
 /* ── pub cards ────────────────────────────────── */
 .gc-pub {
   display: grid;
@@ -237,12 +384,20 @@ redirect_from:
 @media (max-width: 600px) {
   .gc-name { font-size: 2rem; }
   .gc-stats { grid-template-columns: repeat(2, 1fr); }
+  .gc-edu-timeline::before { left: 7px; }
+  .gc-edu-item { grid-template-columns: 1fr; gap: 8px; padding-left: 24px; }
+  .gc-edu-item::before { left: 3px; top: 7px; }
+  .gc-edu-years { text-align: left; padding-top: 0; font-family: 'DM Sans', sans-serif; font-size: 0.72rem; color: #999; }
+  .gc-edu-card { padding: 17px 18px 16px; }
+  .gc-edu-card::after { font-size: 2.8rem; }
+  .gc-edu-footnote { margin-left: 24px; }
 }
 </style>
 
 <div class="gc-root">
 
 <!-- HERO -->
+
 <div class="gc-hero">
   <h1 class="gc-name">Guodong Chen</h1>
   <p class="gc-role">Postdoctoral Researcher &nbsp;·&nbsp; UC Berkeley &amp; Lawrence Berkeley National Laboratory</p>
@@ -262,26 +417,28 @@ redirect_from:
 </div>
 
 <!-- STATS -->
+
 <div class="gc-stats">
   <div class="gc-stat">
-    <div class="gc-stat-n">40</div>
+    <div class="gc-stat-n">40+</div>
     <div class="gc-stat-l">Publications</div>
   </div>
   <div class="gc-stat">
-    <div class="gc-stat-n">10</div>
-    <div class="gc-stat-l">IF 10+ journals</div>
-  </div>
-  <div class="gc-stat">
-    <div class="gc-stat-n">15</div>
-    <div class="gc-stat-l">First-author papers</div>
-  </div>
-  <div class="gc-stat">
-    <div class="gc-stat-n">1,650+</div>
+    <div class="gc-stat-n">1,800+</div>
     <div class="gc-stat-l">Citations</div>
+  </div>
+  <div class="gc-stat">
+    <div class="gc-stat-n">21</div>
+    <div class="gc-stat-l">h-index</div>
+  </div>
+  <div class="gc-stat">
+    <div class="gc-stat-n">3</div>
+    <div class="gc-stat-l">Highly cited papers</div>
   </div>
 </div>
 
 <!-- RESEARCH NARRATIVE -->
+
 <div class="gc-section">
   <div class="gc-section-label">Research</div>
   <div class="gc-narrative">
@@ -317,7 +474,82 @@ redirect_from:
   </div>
 </div>
 
+<!-- EDUCATION -->
+
+<div class="gc-section">
+  <div class="gc-section-label">Education</div>
+  <p class="gc-edu-intro">
+    My academic training spans <strong>petroleum engineering, reservoir development, and hydrogeology</strong>,
+    providing a cross-disciplinary foundation for research on AI-enabled subsurface science. This progression
+    from engineered energy reservoirs to natural subsurface systems now underpins my work in scientific machine
+    learning, geothermal energy, geological CO₂ storage, and physics-grounded AI.
+  </p>
+
+  <div class="gc-edu-timeline">
+    <div class="gc-edu-item">
+      <div class="gc-edu-years">2021<br>— 2025</div>
+      <div class="gc-edu-card" data-mark="HKU">
+        <div class="gc-edu-inst">The University of Hong Kong · Hong Kong</div>
+        <div class="gc-edu-degree">Ph.D. in Hydrogeology</div>
+        <div class="gc-edu-meta">Supervisor: Prof. Jiu Jimmy Jiao</div>
+        <p class="gc-edu-desc">
+          Doctoral training at the intersection of <strong>subsurface flow, fractured geothermal systems,
+          inverse modelling, and data-driven optimisation</strong>, forming the scientific basis for my later
+          work on generative AI and physics-aware learning for subsurface energy systems.
+        </p>
+        <div class="gc-edu-details">
+          <span class="gc-edu-chip gc-edu-chip-award">HKIE Ringo Yu Prize for Best PhD Thesis</span>
+          <span class="gc-edu-chip gc-edu-chip-award">HKU Foundation Excellent PhD Award</span>
+        </div>
+      </div>
+    </div>
+
+<div class="gc-edu-item">
+  <div class="gc-edu-years">2018<br>— 2021</div>
+  <div class="gc-edu-card" data-mark="CUP">
+    <div class="gc-edu-inst">China University of Petroleum (East China) · Qingdao</div>
+    <div class="gc-edu-degree">M.Sc. in Oil &amp; Gas Development Engineering</div>
+    <div class="gc-edu-meta">Full English Program · Supervisor: Prof. Kai Zhang</div>
+    <p class="gc-edu-desc">
+      Advanced training in <strong>reservoir engineering, production optimisation, and computational
+      modelling</strong>, with an increasing emphasis on machine-learning-assisted optimisation of complex
+      subsurface energy systems.
+    </p>
+    <div class="gc-edu-details">
+      <span class="gc-edu-chip gc-edu-chip-award">Outstanding Master’s Thesis of Shandong Province</span>
+      <span class="gc-edu-chip">Scientific computing &amp; optimisation</span>
+    </div>
+  </div>
+</div>
+
+<div class="gc-edu-item">
+  <div class="gc-edu-years">2014<br>— 2018</div>
+  <div class="gc-edu-card" data-mark="CUP">
+    <div class="gc-edu-inst">China University of Petroleum (East China) · Qingdao</div>
+    <div class="gc-edu-degree">B.Eng. in Petroleum Engineering</div>
+    <div class="gc-edu-meta">Undergraduate education in subsurface energy engineering</div>
+    <p class="gc-edu-desc">
+      Built a rigorous engineering foundation in <strong>reservoir development, fluid flow, drilling and
+      production systems</strong>, which established my long-term interest in quantitative subsurface science
+      and computational decision-making.
+    </p>
+    <div class="gc-edu-details">
+      <span class="gc-edu-chip gc-edu-chip-award">National Scholarship · China Ministry of Education</span>
+      <span class="gc-edu-chip">Petroleum &amp; reservoir engineering</span>
+    </div>
+  </div>
+</div>
+
+  </div>
+
+  <div class="gc-edu-footnote">
+    <strong>Academic trajectory.</strong> Engineering the subsurface → understanding the subsurface →
+    building intelligent systems that can simulate, infer, and ultimately support scientific discovery and decision-making.
+  </div>
+</div>
+
 <!-- SELECTED PUBLICATIONS -->
+
 <div class="gc-section">
   <div class="gc-section-label">Selected publications</div>
 
@@ -422,6 +654,7 @@ redirect_from:
 </div>
 
 <!-- AWARDS (condensed) -->
+
 <div class="gc-section">
   <div class="gc-section-label">Recognition</div>
 
@@ -453,6 +686,7 @@ redirect_from:
 </div>
 
 <!-- CONFERENCE TALKS (condensed) -->
+
 <div class="gc-section">
   <div class="gc-section-label">Selected talks</div>
   <div class="gc-award">
@@ -474,6 +708,7 @@ redirect_from:
 </div>
 
 <!-- REVIEWER SERVICE -->
+
 <div class="gc-section">
   <div class="gc-section-label">Reviewer service</div>
   <p style="font-size:0.85rem;color:#555;line-height:2;">
