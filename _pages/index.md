@@ -2,619 +2,552 @@
 permalink: /
 title: " "
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
-
 <style>
-/* ── reset & base ─────────────────────────────── */
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
-.gc-root {
-  font-family: 'DM Sans', sans-serif;
-  font-weight: 400;
-  color: #1a1a1a;
-  line-height: 1.7;
+.home-page {
   max-width: 780px;
+  color: #242424;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  line-height: 1.72;
 }
 
-/* ── hero ─────────────────────────────────────── */
-.gc-hero {
-  padding: 48px 0 40px;
-  border-bottom: 1px solid #e8e4dc;
-  margin-bottom: 40px;
-}
-.gc-name {
-  font-family: 'DM Serif Display', serif;
-  font-size: 2.6rem;
-  font-weight: 400;
-  letter-spacing: -.5px;
-  color: #0f0f0f;
-  line-height: 1.15;
-  margin-bottom: 6px;
-}
-.gc-role {
-  font-size: 0.95rem;
-  color: #555;
-  margin-bottom: 16px;
-  font-weight: 300;
-}
-.gc-affils {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
-  margin-bottom: 20px;
-}
-.gc-pill {
-  display: inline-block;
-  font-size: 0.72rem;
-  font-weight: 500;
-  letter-spacing: .04em;
-  text-transform: uppercase;
-  padding: 4px 10px;
-  border: 1px solid #c8c0b0;
-  border-radius: 2px;
-  color: #555;
-  background: #faf9f6;
-}
-.gc-links {
-  display: flex;
-  gap: 16px;
-  flex-wrap: wrap;
-}
-.gc-links a {
-  font-size: 0.82rem;
-  color: #2a5caa;
-  text-decoration: none;
-  font-weight: 500;
-  border-bottom: 1px solid transparent;
-  padding-bottom: 1px;
-  transition: border-color .15s;
-}
-.gc-links a:hover { border-color: #2a5caa; }
+.home-page * { box-sizing: border-box; }
 
-/* ── stats bar ────────────────────────────────── */
-.gc-stats {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 1px;
-  background: #e8e4dc;
-  border: 1px solid #e8e4dc;
-  border-radius: 4px;
-  overflow: hidden;
-  margin-bottom: 48px;
-}
-.gc-stat {
-  background: #faf9f6;
-  padding: 16px 18px;
-  text-align: center;
-}
-.gc-stat-n {
-  font-family: 'DM Serif Display', serif;
-  font-size: 1.9rem;
-  color: #0f0f0f;
-  line-height: 1;
-  margin-bottom: 4px;
-}
-.gc-stat-l {
-  font-size: 0.7rem;
-  text-transform: uppercase;
-  letter-spacing: .06em;
-  color: #888;
-  font-weight: 500;
+.home-hero {
+  padding: 2.4rem 0 1.6rem;
 }
 
-/* ── section ──────────────────────────────────── */
-.gc-section {
-  margin-bottom: 52px;
-}
-.gc-section-label {
-  font-size: 0.68rem;
-  font-weight: 500;
-  text-transform: uppercase;
-  letter-spacing: .1em;
-  color: #aaa;
-  margin-bottom: 18px;
-  padding-bottom: 10px;
-  border-bottom: 1px solid #e8e4dc;
-}
-
-/* ── narrative ────────────────────────────────── */
-.gc-narrative p {
-  font-size: 0.97rem;
-  color: #333;
-  line-height: 1.8;
-  margin-bottom: 14px;
-}
-.gc-narrative strong {
-  font-weight: 500;
-  color: #0f0f0f;
-}
-.gc-tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 7px;
-  margin-top: 18px;
-}
-.gc-tag {
-  font-size: 0.73rem;
-  padding: 4px 11px;
-  border-radius: 2px;
-  font-weight: 500;
-  letter-spacing: .03em;
-}
-.gc-tag-blue  { background: #eaf1fb; color: #1a4a8c; border: 1px solid #c2d6f0; }
-.gc-tag-green { background: #eaf4ec; color: #1a5c2e; border: 1px solid #b8dfc0; }
-.gc-tag-sand  { background: #f7f3ec; color: #6b4c1e; border: 1px solid #ddd0bc; }
-
-
-/* ── academic background ─────────────────────── */
-.gc-bg-group {
-  margin-bottom: 26px;
-}
-.gc-bg-group:last-child { margin-bottom: 0; }
-.gc-bg-heading {
-  font-size: 0.70rem;
-  font-weight: 500;
-  text-transform: uppercase;
-  letter-spacing: .08em;
-  color: #999;
-  margin-bottom: 4px;
-}
-.gc-bg-row {
-  display: grid;
-  grid-template-columns: 108px 1fr;
-  gap: 20px;
-  padding: 14px 0;
-  border-bottom: 1px solid #ece8e0;
-}
-.gc-bg-row:first-of-type { border-top: 1px solid #ece8e0; }
-.gc-bg-date {
-  font-size: 0.76rem;
-  color: #999;
-  line-height: 1.5;
-  padding-top: 2px;
-  white-space: nowrap;
-}
-.gc-bg-title {
-  font-family: 'DM Serif Display', serif;
-  font-size: 1.00rem;
-  font-weight: 400;
+.home-name {
+  margin: 0 0 .25rem;
   color: #111;
-  line-height: 1.35;
-  margin-bottom: 2px;
-}
-.gc-bg-inst {
-  font-size: 0.82rem;
-  color: #2a5caa;
-  font-weight: 500;
-  margin-bottom: 2px;
-}
-.gc-bg-meta {
-  font-size: 0.77rem;
-  color: #888;
-  line-height: 1.55;
-}
-.gc-bg-note {
-  font-size: 0.80rem;
-  color: #555;
-  line-height: 1.55;
-  margin-top: 4px;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 2.45rem;
+  font-weight: 400;
+  line-height: 1.15;
 }
 
-/* ── pub cards ────────────────────────────────── */
-.gc-pub {
-  display: grid;
-  grid-template-columns: 1fr auto;
-  gap: 12px;
-  align-items: start;
-  padding: 16px 0;
-  border-bottom: 1px solid #e8e4dc;
+.home-role {
+  margin: 0 0 .45rem;
+  color: #4c4c4c;
+  font-size: .98rem;
 }
-.gc-pub:first-child { border-top: 1px solid #e8e4dc; }
-.gc-pub-num {
-  font-family: 'DM Serif Display', serif;
-  font-size: 0.85rem;
-  color: #bbb;
-  min-width: 24px;
-  padding-top: 2px;
+
+.home-affiliation {
+  margin: 0 0 1rem;
+  color: #777;
+  font-size: .84rem;
 }
-.gc-pub-body { flex: 1; }
-.gc-pub-title {
-  font-size: 0.92rem;
+
+.home-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .55rem 1.15rem;
+}
+
+.home-links a {
+  color: #24558a;
+  font-size: .81rem;
   font-weight: 500;
-  color: #0f0f0f;
-  line-height: 1.4;
-  margin-bottom: 4px;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
 }
-.gc-pub-title a {
+
+.home-links a:hover { border-bottom-color: #24558a; }
+
+.home-campus {
+  position: relative;
+  min-height: 215px;
+  margin: 0 0 .4rem;
+  border-radius: 3px;
+  overflow: hidden;
+  background:
+    linear-gradient(to right, rgba(13,25,40,.05), rgba(13,25,40,.12)),
+    url("https://upload.wikimedia.org/wikipedia/commons/6/66/UC-Berkeley-001-campanile-way-view-west-from-bottom-of-Sather-Tower.jpg")
+    center 46% / cover no-repeat;
+}
+
+.home-photo-credit {
+  margin: 0 0 2.2rem;
+  color: #aaa;
+  font-size: .66rem;
+  text-align: right;
+}
+
+.home-photo-credit a {
   color: inherit;
   text-decoration: none;
-  border-bottom: 1px solid transparent;
-  transition: border-color .15s;
-}
-.gc-pub-title a:hover { border-color: #0f0f0f; }
-.gc-pub-venue {
-  font-size: 0.8rem;
-  color: #777;
-  margin-bottom: 7px;
-}
-.gc-pub-badges {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 5px;
-}
-.gc-badge {
-  font-size: 0.65rem;
-  text-transform: uppercase;
-  letter-spacing: .05em;
-  font-weight: 500;
-  padding: 2px 7px;
-  border-radius: 2px;
-}
-.gc-badge-ni    { background: #f0eef9; color: #3d2f8f; border: 1px solid #cec6f0; }
-.gc-badge-if    { background: #eaf4ec; color: #1a5c2e; border: 1px solid #b8dfc0; }
-.gc-badge-cell  { background: #fdf0e8; color: #8c3a10; border: 1px solid #f0c8a8; }
-.gc-badge-code  { background: #f1f1ee; color: #444; border: 1px solid #d0d0c8; }
-.gc-pub-year {
-  font-size: 0.78rem;
-  color: #bbb;
-  font-weight: 300;
-  white-space: nowrap;
-  padding-top: 3px;
 }
 
-/* ── awards row ───────────────────────────────── */
-.gc-award {
-  display: flex;
-  gap: 14px;
-  align-items: baseline;
-  padding: 10px 0;
-  border-bottom: 1px solid #f0ece4;
-  font-size: 0.88rem;
+.home-photo-credit a:hover { text-decoration: underline; }
+
+.home-stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  margin-bottom: 2.8rem;
+  border-top: 1px solid #dedede;
+  border-bottom: 1px solid #dedede;
 }
-.gc-award:first-child { border-top: 1px solid #f0ece4; }
-.gc-award-pct {
-  min-width: 36px;
-  font-family: 'DM Serif Display', serif;
-  font-size: 1rem;
-  color: #2a5caa;
+
+.home-stat {
+  padding: 1rem .6rem;
+  text-align: center;
+  border-right: 1px solid #e5e5e5;
+}
+
+.home-stat:last-child { border-right: none; }
+
+.home-stat strong {
+  display: block;
+  margin-bottom: .15rem;
+  color: #111;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.45rem;
   font-weight: 400;
 }
-.gc-award-name { color: #222; flex: 1; }
-.gc-award-inst { font-size: 0.78rem; color: #999; }
 
-/* ── responsive ───────────────────────────────── */
-@media (max-width: 600px) {
-  .gc-name { font-size: 2rem; }
-  .gc-stats { grid-template-columns: repeat(2, 1fr); }
-  .gc-bg-row { grid-template-columns: 1fr; gap: 3px; padding: 12px 0; }
-  .gc-bg-date { white-space: normal; font-size: 0.72rem; }
+.home-stat span {
+  color: #858585;
+  font-size: .68rem;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+}
+
+.home-section {
+  margin-bottom: 3rem;
+}
+
+.home-heading {
+  margin: 0 0 1.1rem;
+  padding-bottom: .5rem;
+  border-bottom: 1px solid #dedede;
+  color: #111;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.18rem;
+  font-weight: 400;
+}
+
+.home-prose p {
+  margin: 0 0 .85rem;
+  color: #424242;
+  font-size: .94rem;
+  line-height: 1.78;
+}
+
+.home-prose strong {
+  color: #171717;
+  font-weight: 600;
+}
+
+.home-directions {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.4rem;
+  margin-top: 1.35rem;
+}
+
+.home-direction {
+  padding-top: .8rem;
+  border-top: 2px solid #d9d9d9;
+}
+
+.home-direction h3 {
+  margin: 0 0 .35rem;
+  color: #1a1a1a;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: .93rem;
+  font-weight: 600;
+  line-height: 1.35;
+}
+
+.home-direction p {
+  margin: 0;
+  color: #777;
+  font-size: .77rem;
+  line-height: 1.55;
+}
+
+.home-group-label {
+  margin: 1.3rem 0 .25rem;
+  color: #999;
+  font-size: .66rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .09em;
+}
+
+.home-row {
+  display: grid;
+  grid-template-columns: 112px minmax(0, 1fr);
+  gap: 1rem;
+  padding: .85rem 0;
+  border-bottom: 1px solid #ebebeb;
+}
+
+.home-row:first-of-type { border-top: 1px solid #ebebeb; }
+
+.home-date {
+  color: #9a9a9a;
+  font-size: .74rem;
+  white-space: nowrap;
+  padding-top: .12rem;
+}
+
+.home-row-title {
+  color: #1b1b1b;
+  font-size: .88rem;
+  font-weight: 600;
+  line-height: 1.45;
+}
+
+.home-row-inst {
+  margin-top: .1rem;
+  color: #555;
+  font-size: .80rem;
+  line-height: 1.5;
+}
+
+.home-row-meta {
+  margin-top: .16rem;
+  color: #8a8a8a;
+  font-size: .73rem;
+  line-height: 1.5;
+}
+
+.home-pub {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 1rem;
+  padding: .95rem 0;
+  border-bottom: 1px solid #e9e9e9;
+}
+
+.home-pub:first-of-type { border-top: 1px solid #e2e2e2; }
+
+.home-pub-title {
+  margin: 0 0 .18rem;
+  color: #171717;
+  font-size: .87rem;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.home-pub-title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.home-pub-title a:hover { text-decoration: underline; }
+
+.home-pub-meta {
+  margin: 0;
+  color: #818181;
+  font-size: .74rem;
+  line-height: 1.5;
+}
+
+.home-year {
+  color: #aaa;
+  font-size: .73rem;
+  white-space: nowrap;
+}
+
+.home-more {
+  margin-top: .85rem;
+  font-size: .78rem;
+}
+
+.home-more a {
+  color: #24558a;
+  text-decoration: none;
+}
+
+.home-more a:hover { text-decoration: underline; }
+
+.home-two-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2.2rem;
+}
+
+.home-compact {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.home-compact li {
+  padding: .55rem 0;
+  border-bottom: 1px solid #ededed;
+  color: #555;
+  font-size: .80rem;
+  line-height: 1.5;
+}
+
+.home-compact strong {
+  color: #222;
+  font-weight: 600;
+}
+
+@media (max-width: 680px) {
+  .home-name { font-size: 2rem; }
+  .home-campus { min-height: 165px; }
+  .home-stats { grid-template-columns: repeat(2, 1fr); }
+  .home-stat:nth-child(2) { border-right: none; }
+  .home-stat:nth-child(-n+2) { border-bottom: 1px solid #e5e5e5; }
+  .home-directions { grid-template-columns: 1fr; gap: .85rem; }
+  .home-row { grid-template-columns: 1fr; gap: .2rem; }
+  .home-date { white-space: normal; }
+  .home-two-col { grid-template-columns: 1fr; gap: 1.5rem; }
 }
 </style>
 
-<div class="gc-root">
+<div class="home-page">
 
-<!-- HERO -->
-
-<div class="gc-hero">
-  <h1 class="gc-name">Guodong Chen</h1>
-  <p class="gc-role">Postdoctoral Researcher &nbsp;·&nbsp; UC Berkeley &amp; Lawrence Berkeley National Laboratory</p>
-  <div class="gc-affils">
-    <span class="gc-pill">UC Berkeley</span>
-    <span class="gc-pill">LBNL</span>
-    <span class="gc-pill">Cornell (prev.)</span>
-    <span class="gc-pill">HKU PhD</span>
-    <span class="gc-pill">CUP-East China</span>
-  </div>
-  <div class="gc-links">
-    <a href="https://jellychen7.github.io/jellychen.github.io/files/cv.pdf">Curriculum Vitae (PDF)</a>
-    <a href="mailto:guodong.chen@berkeley.edu">Email</a>
-    <a href="https://github.com/JellyChen7">GitHub</a>
-    <a href="https://scholar.google.com/citations?user=U2YFkAgAAAAJ&hl=zh-CN&authuser=1&oi=ao">Google Scholar</a>
-  </div>
-</div>
-
-<!-- STATS -->
-
-<div class="gc-stats">
-  <div class="gc-stat">
-    <div class="gc-stat-n">40+</div>
-    <div class="gc-stat-l">Publications</div>
-  </div>
-  <div class="gc-stat">
-    <div class="gc-stat-n">1,800+</div>
-    <div class="gc-stat-l">Citations</div>
-  </div>
-  <div class="gc-stat">
-    <div class="gc-stat-n">21</div>
-    <div class="gc-stat-l">h-index</div>
-  </div>
-  <div class="gc-stat">
-    <div class="gc-stat-n">3</div>
-    <div class="gc-stat-l">Highly cited papers</div>
-  </div>
-</div>
-
-<!-- RESEARCH NARRATIVE -->
-
-<div class="gc-section">
-  <div class="gc-section-label">Research</div>
-  <div class="gc-narrative">
-    <p>
-      I develop <strong>generative AI and foundation models for subsurface geoscience</strong> — 
-      accelerating simulation, design, and discovery for energy systems at the heart of the climate transition.
-      My work sits at the intersection of diffusion models, physics-informed learning, and 
-      multi-objective optimization, applied to CO₂ sequestration, geothermal energy, fracture characterisation, 
-      and underground hydrogen storage.
-    </p>
-    <p>
-      A thread running through all my work: <strong>replacing expensive physical simulations with 
-      AI surrogates that preserve the underlying physics</strong>, while enabling decisions at reservoir 
-      scale and over climate-relevant timescales. I build tools that close the loop between data, 
-      simulation, and optimal design — from pore-scale fluid dynamics to field-scale production systems.
-    </p>
-    <p>
-      I am actively building towards an independent research program that bridges 
-      <strong>scientific machine learning, subsurface energy systems, and sustainable engineering</strong>, 
-      with a long-term vision of developing foundation models for the geosciences.
-    </p>
-    <div class="gc-tags">
-      <span class="gc-tag gc-tag-blue">Diffusion models</span>
-      <span class="gc-tag gc-tag-blue">Foundation models</span>
-      <span class="gc-tag gc-tag-blue">Physics-informed ML</span>
-      <span class="gc-tag gc-tag-green">CO₂ sequestration</span>
-      <span class="gc-tag gc-tag-green">Geothermal systems</span>
-      <span class="gc-tag gc-tag-green">H₂ storage</span>
-      <span class="gc-tag gc-tag-sand">Surrogate optimisation</span>
-      <span class="gc-tag gc-tag-sand">Fracture inversion</span>
-      <span class="gc-tag gc-tag-sand">Data assimilation</span>
+  <header class="home-hero">
+    <h1 class="home-name">Guodong Chen</h1>
+    <p class="home-role">Postdoctoral Researcher · UC Berkeley &amp; Lawrence Berkeley National Laboratory</p>
+    <p class="home-affiliation">Scientific machine learning · Subsurface energy systems · Computational geoscience</p>
+    <div class="home-links">
+      <a href="{{ site.url }}{{ site.baseurl }}/files/cv.pdf">Curriculum Vitae</a>
+      <a href="mailto:gchen6@lbl.gov">Email</a>
+      <a href="https://scholar.google.com/citations?user=U2YFkAgAAAAJ&hl=en">Google Scholar</a>
+      <a href="https://orcid.org/0000-0002-5704-638X">ORCID</a>
+      <a href="https://github.com/JellyChen7">GitHub</a>
     </div>
-  </div>
-</div>
+  </header>
 
-<!-- ACADEMIC BACKGROUND -->
-
-<div class="gc-section">
-  <div class="gc-section-label">Academic background</div>
-
-  <div class="gc-bg-group">
-    <div class="gc-bg-heading">Postdoctoral appointments</div>
-
-<div class="gc-bg-row">
-  <div class="gc-bg-date">Oct. 2025 — Now</div>
-  <div>
-    <div class="gc-bg-title">Postdoctoral Researcher</div>
-    <div class="gc-bg-inst">University of California, Berkeley &amp; Lawrence Berkeley National Laboratory</div>
-    <div class="gc-bg-meta">Advisors: Prof. Kenichi Soga &amp; Prof. Nori Nakata</div>
-    <div class="gc-bg-note">Subsurface multi-physics modelling and scientific foundation models for geothermal systems.</div>
-  </div>
-</div>
-
-<div class="gc-bg-row">
-  <div class="gc-bg-date">Apr. — Sep. 2025</div>
-  <div>
-    <div class="gc-bg-title">Postdoctoral Researcher</div>
-    <div class="gc-bg-inst">Cornell University</div>
-    <div class="gc-bg-meta">Advisor: Prof. Fengqi You</div>
-    <div class="gc-bg-note">Geothermal energy and controlled-environment agriculture.</div>
-  </div>
-</div>
-
-  </div>
-
-  <div class="gc-bg-group">
-    <div class="gc-bg-heading">Education</div>
-
-<div class="gc-bg-row">
-  <div class="gc-bg-date">2021 — 2025</div>
-  <div>
-    <div class="gc-bg-title">Ph.D. in Hydrogeology</div>
-    <div class="gc-bg-inst">The University of Hong Kong</div>
-    <div class="gc-bg-meta">Supervisor: Prof. Jiu Jimmy Jiao · HKIE Ringo Yu Prize for Best PhD Thesis · HKU Foundation Excellent PhD Award</div>
-  </div>
-</div>
-
-<div class="gc-bg-row">
-  <div class="gc-bg-date">2018 — 2021</div>
-  <div>
-    <div class="gc-bg-title">M.Sc. in Oil &amp; Gas Development Engineering</div>
-    <div class="gc-bg-inst">China University of Petroleum (East China)</div>
-    <div class="gc-bg-meta">Supervisor: Prof. Kai Zhang · Outstanding Master’s Thesis of Shandong Province</div>
-  </div>
-</div>
-
-<div class="gc-bg-row">
-  <div class="gc-bg-date">2014 — 2018</div>
-  <div>
-    <div class="gc-bg-title">B.Eng. in Petroleum Engineering</div>
-    <div class="gc-bg-inst">China University of Petroleum (East China)</div>
-    <div class="gc-bg-meta">National Scholarship, China Ministry of Education</div>
-  </div>
-</div>
-
-  </div>
-</div>
-
-<!-- SELECTED PUBLICATIONS -->
-
-<div class="gc-section">
-  <div class="gc-section-label">Selected publications</div>
-
-  <div class="gc-pub">
-    <div>
-      <p class="gc-pub-title">
-        <a href="https://www.sciencedirect.com/science/article/pii/S0306261926000899">Energy-efficient greenhouse climate control with diffusion reinforcement learning</a>
-      </p>
-      <p class="gc-pub-venue">Applied Energy (Nature Index) · IF 12.2 · 2026</p>
-      <div class="gc-pub-badges">
-        <span class="gc-badge gc-badge-if">IF 12.2</span>
-        <span class="gc-badge gc-badge-code">Nature Index</span>
-      </div>
-    </div>
-    <span class="gc-pub-year">2026</span>
-  </div>
-
-  <div class="gc-pub">
-    <div>
-      <p class="gc-pub-title">
-        <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11224780">Expensive multi-objective optimization guided by attention-enhanced generative models</a>
-      </p>
-      <p class="gc-pub-venue">IEEE Transactions on Neural Networks and Learning Systems · IF 9.7</p>
-      <div class="gc-pub-badges">
-        <span class="gc-badge gc-badge-if">IF 9.7</span>
-      </div>
-    </div>
-    <span class="gc-pub-year">2025</span>
-  </div>
-
-  <div class="gc-pub">
-    <div>
-      <p class="gc-pub-title">
-        <a href="https://www.cell.com/nexus/fulltext/S2950-1601(24)00042-1">Machine learning-accelerated multi-objective design of fractured geothermal systems</a>
-      </p>
-      <p class="gc-pub-venue">Nexus · Cell Press · 2024</p>
-      <div class="gc-pub-badges">
-        <span class="gc-badge gc-badge-cell">Cell Press</span>
-        <span class="gc-badge gc-badge-code">Code</span>
-      </div>
-    </div>
-    <span class="gc-pub-year">2024</span>
-  </div>
-
-  <div class="gc-pub">
-    <div>
-      <p class="gc-pub-title">
-        <a href="https://www.sciencedirect.com/science/article/abs/pii/S1364032123007189">Surrogate-assisted level-based learning evolutionary search for geothermal heat extraction optimisation</a>
-      </p>
-      <p class="gc-pub-venue">Renewable and Sustainable Energy Reviews · IF 18.0 · 2024</p>
-      <div class="gc-pub-badges">
-        <span class="gc-badge gc-badge-if">IF 18.0</span>
-      </div>
-    </div>
-    <span class="gc-pub-year">2024</span>
-  </div>
-
-  <div class="gc-pub">
-    <div>
-      <p class="gc-pub-title">
-        <a href="https://ager.yandypress.com/index.php/2207-9963/article/view/506/524">Multi-fidelity machine learning with knowledge transfer enhances geothermal energy system design</a>
-      </p>
-      <p class="gc-pub-venue">Advances in Geo-Energy Research · IF 11.2 · 2025</p>
-      <div class="gc-pub-badges">
-        <span class="gc-badge gc-badge-if">IF 11.2</span>
-      </div>
-    </div>
-    <span class="gc-pub-year">2025</span>
-  </div>
-
-  <div class="gc-pub">
-    <div>
-      <p class="gc-pub-title">
-        <a href="https://www.sciencedirect.com/science/article/abs/pii/S0360544223006965">Fracture network characterisation with deep generative model-based stochastic inversion</a>
-      </p>
-      <p class="gc-pub-venue">Energy (Nature Index) · IF 10.1 · 2023</p>
-      <div class="gc-pub-badges">
-        <span class="gc-badge gc-badge-if">IF 10.1</span>
-        <span class="gc-badge gc-badge-code">Nature Index</span>
-      </div>
-    </div>
-    <span class="gc-pub-year">2023</span>
-  </div>
-
-  <div class="gc-pub">
-    <div>
-      <p class="gc-pub-title">
-        <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120253?utm_medium=article&utm_source=researchgate.net">Physics‐Supervised Autonomous Inverse Fracture Modeling via Generative Artificial Intelligence</a>
-      </p>
-      <p class="gc-pub-venue">Geophysical Research Letters (Nature Index) · IF 5.0 · 2026</p>
-      <div class="gc-pub-badges">
-        <span class="gc-badge gc-badge-if">IF 5.0</span>
-        <span class="gc-badge gc-badge-code">Nature Index</span>
-      </div>
-    </div>
-    <span class="gc-pub-year">2026</span>
-  </div>
-
-  <p style="margin-top:16px;font-size:0.82rem;color:#888;">
-    <a href="https://jellychen7.github.io/jellychen.github.io/publications/" style="color:#2a5caa;text-decoration:none;font-weight:500;border-bottom:1px solid transparent;" onmouseover="this.style.borderColor='#2a5caa'" onmouseout="this.style.borderColor='transparent'">View all publications →</a>
+  <div class="home-campus" role="img" aria-label="Campanile Way at the University of California, Berkeley"></div>
+  <p class="home-photo-credit">
+    UC Berkeley, Campanile Way ·
+    <a href="https://commons.wikimedia.org/wiki/File:UC-Berkeley-001-campanile-way-view-west-from-bottom-of-Sather-Tower.jpg">CC0 image, Wikimedia Commons</a>
   </p>
-</div>
 
-<!-- AWARDS (condensed) -->
-
-<div class="gc-section">
-  <div class="gc-section-label">Recognition</div>
-
-  <div class="gc-award">
-    <span class="gc-award-pct"></span>
-    <span class="gc-award-name">HKIE Ringo Yu Prize for Best PhD Thesis</span>
-    <span class="gc-award-inst">HKIE</span>
-  </div>
-  <div class="gc-award">
-    <span class="gc-award-pct"></span>
-    <span class="gc-award-name">HKU Foundation Excellent PhD Award</span>
-    <span class="gc-award-inst">HKU</span>
-  </div>
-  <div class="gc-award">
-    <span class="gc-award-pct"></span>
-    <span class="gc-award-name">Outstanding Master's Thesis of Shandong Province</span>
-    <span class="gc-award-inst">Shandong Province</span>
-  </div>
-  <div class="gc-award">
-    <span class="gc-award-pct"></span>
-    <span class="gc-award-name">National Scholarship, China Ministry of Education</span>
-    <span class="gc-award-inst">China MOE</span>
+  <div class="home-stats">
+    <div class="home-stat"><strong>40+</strong><span>Journal papers</span></div>
+    <div class="home-stat"><strong>1,800+</strong><span>Citations</span></div>
+    <div class="home-stat"><strong>21</strong><span>h-index</span></div>
+    <div class="home-stat"><strong>3</strong><span>Highly cited papers</span></div>
   </div>
 
-  <p style="margin-top:14px;font-size:0.82rem;color:#888;">
-    Full list of awards and scholarships in 
-    <a href="https://jellychen7.github.io/jellychen.github.io/files/cv.pdf" style="color:#2a5caa;text-decoration:none;font-weight:500;">CV (PDF)</a>.
-  </p>
-</div>
+  <section class="home-section">
+    <h2 class="home-heading">Research profile</h2>
+    <div class="home-prose">
+      <p>
+        I develop <strong>computational and machine-learning methods for subsurface energy and environmental systems</strong>,
+        with particular interests in forward simulation, inverse modelling, uncertainty quantification, and optimization.
+        My work addresses problems in geothermal energy, geological CO<sub>2</sub> storage, fractured-media flow,
+        and sustainable reservoir development.
+      </p>
+      <p>
+        A recurring objective is to connect physical modelling with modern learning methods so that complex subsurface
+        systems can be characterized and optimized from sparse observations without sacrificing physical consistency.
+        My current work at UC Berkeley and LBNL extends this direction toward transferable scientific models and
+        autonomous workflows for geoscience.
+      </p>
+    </div>
 
-<!-- CONFERENCE TALKS (condensed) -->
+    <div class="home-directions">
+      <div class="home-direction">
+        <h3>Scientific machine learning</h3>
+        <p>Fast and physically grounded surrogates for coupled subsurface flow and geothermal multiphysics.</p>
+      </div>
+      <div class="home-direction">
+        <h3>Inverse problems &amp; uncertainty</h3>
+        <p>Generative inference of fractures, flow states, and geological structure from sparse observations.</p>
+      </div>
+      <div class="home-direction">
+        <h3>Optimization &amp; decision-making</h3>
+        <p>Surrogate-assisted design and operational optimization under geological and model uncertainty.</p>
+      </div>
+    </div>
+  </section>
 
-<div class="gc-section">
-  <div class="gc-section-label">Selected talks</div>
-  <div class="gc-award">
-    <span class="gc-award-pct" style="font-size:0.75rem;color:#aaa;min-width:44px;">AGU 2024</span>
-    <span class="gc-award-name" style="font-size:0.88rem;">Machine learning-enabled discovery of optimal fractured geothermal system design <em style="color:#aaa;font-size:0.8rem;">(oral)</em></span>
-  </div>
-  <div class="gc-award">
-    <span class="gc-award-pct" style="font-size:0.75rem;color:#aaa;min-width:44px;">AGU 2024</span>
-    <span class="gc-award-name" style="font-size:0.88rem;">Accelerated generative inversion of fracture networks via diffusion models <em style="color:#aaa;font-size:0.8rem;">(poster)</em></span>
-  </div>
-  <div class="gc-award">
-    <span class="gc-award-pct" style="font-size:0.75rem;color:#aaa;min-width:44px;">AGU 2023</span>
-    <span class="gc-award-name" style="font-size:0.88rem;">Deep learning enhanced evolutionary multi-objective optimisation for geothermal systems <em style="color:#aaa;font-size:0.8rem;">(poster)</em></span>
-  </div>
-  <div class="gc-award">
-    <span class="gc-award-pct" style="font-size:0.75rem;color:#aaa;min-width:44px;">EGU 2023</span>
-    <span class="gc-award-name" style="font-size:0.88rem;">Classifier-assisted level-based evolutionary search for geothermal heat extraction <em style="color:#aaa;font-size:0.8rem;">(poster)</em></span>
-  </div>
-</div>
+  <section class="home-section">
+    <h2 class="home-heading">Appointments &amp; education</h2>
 
-<!-- REVIEWER SERVICE -->
+    <div class="home-group-label">Academic appointments</div>
 
-<div class="gc-section">
-  <div class="gc-section-label">Reviewer service</div>
-  <p style="font-size:0.85rem;color:#555;line-height:2;">
-    Applied Energy &nbsp;·&nbsp; Geophysical Research Letters &nbsp;·&nbsp; Water Resources Research &nbsp;·&nbsp;
-    IEEE Trans. Evolutionary Computation &nbsp;·&nbsp; IEEE Trans. Neural Networks &nbsp;·&nbsp;
-    IEEE Trans. Systems Man Cybernetics &nbsp;·&nbsp; Renewable &amp; Sustainable Energy Reviews &nbsp;·&nbsp;
-    SPE Journal &nbsp;·&nbsp; Fuel &nbsp;·&nbsp; Journal of Hydrology &nbsp;·&nbsp;
-    Information Sciences &nbsp;·&nbsp; Applied Soft Computing &nbsp;·&nbsp;
-    Computational Geosciences &nbsp;+&nbsp; 10 others
-  </p>
-</div>
+    <div class="home-row">
+      <div class="home-date">Oct. 2025 — Present</div>
+      <div>
+        <div class="home-row-title">Postdoctoral Researcher</div>
+        <div class="home-row-inst">University of California, Berkeley &amp; Lawrence Berkeley National Laboratory</div>
+        <div class="home-row-meta">Advisors: Prof. Kenichi Soga &amp; Prof. Nori Nakata · Subsurface multiphysics and scientific foundation models</div>
+      </div>
+    </div>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=ewcit6dbr21sN_H1W7FrIsT7oGsPAbBWnjn2ZH1UI8U&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+    <div class="home-row">
+      <div class="home-date">Apr. — Sep. 2025</div>
+      <div>
+        <div class="home-row-title">Postdoctoral Researcher</div>
+        <div class="home-row-inst">Cornell University</div>
+        <div class="home-row-meta">Advisor: Prof. Fengqi You · Geothermal energy and controlled-environment agriculture</div>
+      </div>
+    </div>
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=ucQPKPnN4O5zRRYSv11g1dxvQtRDXVKmw09uWFLjL3I&cl=ffffff&w=a"></script>
+    <div class="home-row">
+      <div class="home-date">Mar. — Jun. 2024</div>
+      <div>
+        <div class="home-row-title">Visiting Research Scholar</div>
+        <div class="home-row-inst">Westlake University</div>
+        <div class="home-row-meta">Host: Prof. Yaochu Jin</div>
+      </div>
+    </div>
+
+    <div class="home-group-label">Education</div>
+
+    <div class="home-row">
+      <div class="home-date">2021 — 2025</div>
+      <div>
+        <div class="home-row-title">Ph.D. in Hydrogeology</div>
+        <div class="home-row-inst">The University of Hong Kong</div>
+        <div class="home-row-meta">Supervisor: Prof. Jiu Jimmy Jiao · HKIE Ringo Yu Prize for Best PhD Thesis · HKU Foundation Excellent PhD Award</div>
+      </div>
+    </div>
+
+    <div class="home-row">
+      <div class="home-date">2018 — 2021</div>
+      <div>
+        <div class="home-row-title">M.Sc. in Oil &amp; Gas Development Engineering</div>
+        <div class="home-row-inst">China University of Petroleum (East China)</div>
+        <div class="home-row-meta">Supervisor: Prof. Kai Zhang · Outstanding Master’s Thesis of Shandong Province</div>
+      </div>
+    </div>
+
+    <div class="home-row">
+      <div class="home-date">2014 — 2018</div>
+      <div>
+        <div class="home-row-title">B.Eng. in Petroleum Engineering</div>
+        <div class="home-row-inst">China University of Petroleum (East China)</div>
+        <div class="home-row-meta">National Scholarship, China Ministry of Education</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="home-section">
+    <h2 class="home-heading">Selected publications</h2>
+
+    <div class="home-pub">
+      <div>
+        <p class="home-pub-title">
+          <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120253">Physics-supervised autonomous inverse fracture modelling via generative artificial intelligence</a>
+        </p>
+        <p class="home-pub-meta">Geophysical Research Letters</p>
+      </div>
+      <div class="home-year">2026</div>
+    </div>
+
+    <div class="home-pub">
+      <div>
+        <p class="home-pub-title">
+          <a href="https://www.sciencedirect.com/science/article/pii/S0306261926000899">Energy-efficient greenhouse climate control with diffusion reinforcement learning</a>
+        </p>
+        <p class="home-pub-meta">Applied Energy</p>
+      </div>
+      <div class="home-year">2026</div>
+    </div>
+
+    <div class="home-pub">
+      <div>
+        <p class="home-pub-title">
+          <a href="https://ieeexplore.ieee.org/document/11224780">Expensive multi-objective optimization guided by attention-enhanced generative models</a>
+        </p>
+        <p class="home-pub-meta">IEEE Transactions on Neural Networks and Learning Systems</p>
+      </div>
+      <div class="home-year">2025</div>
+    </div>
+
+    <div class="home-pub">
+      <div>
+        <p class="home-pub-title">Multi-fidelity machine learning with knowledge transfer enhances geothermal energy system design and optimization</p>
+        <p class="home-pub-meta">Advances in Geo-Energy Research</p>
+      </div>
+      <div class="home-year">2025</div>
+    </div>
+
+    <div class="home-pub">
+      <div>
+        <p class="home-pub-title">
+          <a href="https://www.cell.com/nexus/fulltext/S2950-1601(24)00042-1">Machine-learning-accelerated multi-objective design of fractured geothermal systems</a>
+        </p>
+        <p class="home-pub-meta">Nexus · Cell Press</p>
+      </div>
+      <div class="home-year">2024</div>
+    </div>
+
+    <div class="home-pub">
+      <div>
+        <p class="home-pub-title">
+          <a href="https://www.sciencedirect.com/science/article/abs/pii/S1364032123007189">Surrogate-assisted level-based learning evolutionary search for geothermal heat extraction optimization</a>
+        </p>
+        <p class="home-pub-meta">Renewable and Sustainable Energy Reviews</p>
+      </div>
+      <div class="home-year">2024</div>
+    </div>
+
+    <p class="home-more"><a href="{{ site.url }}{{ site.baseurl }}/publications/">View complete publication list →</a></p>
+  </section>
+
+  <section class="home-section">
+    <h2 class="home-heading">Selected scholarly activities</h2>
+    <div class="home-two-col">
+      <div>
+        <div class="home-group-label" style="margin-top:0;">Invited seminars</div>
+        <ul class="home-compact">
+          <li><strong>Stanford University</strong> · 2026</li>
+          <li><strong>Lawrence Berkeley National Laboratory</strong> · 2025</li>
+          <li><strong>Cornell University</strong> · 2025</li>
+          <li><strong>MIT</strong> · 2024</li>
+          <li><strong>Yale University</strong> · 2024</li>
+          <li><strong>Stanford University</strong> · 2024</li>
+        </ul>
+      </div>
+      <div>
+        <div class="home-group-label" style="margin-top:0;">Teaching, mentoring &amp; service</div>
+        <ul class="home-compact">
+          <li>Teaching assistant and tutorial leader across <strong>five Earth Sciences courses at HKU</strong>.</li>
+          <li>Research mentoring involving PhD and MSc researchers at <strong>Stanford/LBNL, Peking University, Arizona State University, and CUP(E)</strong>.</li>
+          <li><strong>Primary Convener</strong>, AGU Annual Meeting 2026 session.</li>
+          <li>Reviewer for journals spanning geoscience, energy systems, and machine learning.</li>
+        </ul>
+      </div>
+    </div>
+    <p class="home-more"><a href="{{ site.url }}{{ site.baseurl }}/activities/">More academic activities →</a></p>
+  </section>
+
+  <section class="home-section">
+    <h2 class="home-heading">Recognition</h2>
+    <div class="home-row">
+      <div class="home-date">Doctoral</div>
+      <div>
+        <div class="home-row-title">HKIE Ringo Yu Prize for Best PhD Thesis</div>
+        <div class="home-row-meta">Hong Kong Institution of Engineers</div>
+      </div>
+    </div>
+    <div class="home-row">
+      <div class="home-date">Doctoral</div>
+      <div>
+        <div class="home-row-title">HKU Foundation Excellent PhD Award</div>
+        <div class="home-row-meta">The University of Hong Kong</div>
+      </div>
+    </div>
+    <div class="home-row">
+      <div class="home-date">Master's</div>
+      <div>
+        <div class="home-row-title">Outstanding Master’s Thesis of Shandong Province</div>
+      </div>
+    </div>
+    <div class="home-row">
+      <div class="home-date">Undergraduate</div>
+      <div>
+        <div class="home-row-title">National Scholarship, China Ministry of Education</div>
+        <div class="home-row-meta">Top 1%</div>
+      </div>
+    </div>
+  </section>
 
 </div>
