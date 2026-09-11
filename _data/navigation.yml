@@ -11,5 +11,7 @@ main:
     url: /research/
   - title: "Publications"
     url: /publications/
+  - title: "Activities"
+    url: /activities/
   - title: "CV"
     url: /files/cv.pdf
