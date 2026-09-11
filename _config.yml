@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Guodong CHEN (陈国栋)"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Guodong Chen"
+description              : &description "Guodong Chen — scientific machine learning and subsurface energy systems"
 url                      : https://jellychen7.github.io/jellychen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/JellyChen7"
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "JellyChen7"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
